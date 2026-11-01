@@ -57,3 +57,7 @@ Secrets 등록, SSH 최초 설정, 첫 실제 GitHub 배포 성공은 별개 단
 `Load key ...: error in libcrypto`는 서버 접속 전에 개인키 파싱이 실패한 상태다. MAKESNS_SSH_KEY에는 `/root/...` 경로나 .pub 공개키가 아닌 github-actions 개인키 파일 전체(시작/끝 줄 포함)를 실제 줄바꿈으로 넣는다. 워크플로는 CRLF/마지막 줄바꿈을 정리하고 ssh-keygen으로 파싱을 확인한다. 오류 시 키 내용이나 provider 출력은 표시하지 않고 재등록 방법을 안내한다.
 
 Secret 수정 후에는 이전 실행의 Re-run이 아니라 main 기준 새 Run workflow를 실행해야 최신 워크플로 변경도 적용된다. 실행 환경은 ubuntu-24.04로 고정하고 Node 24용 checkout v6/setup-node v6/pnpm action-setup v5의 확인한 커밋을 사용한다. 이 변경이 실제 서버 인증 성공을 의미하지는 않는다.
+
+## 최초 연결 확인 기록 · 2026-11-01
+
+사용자가 수동 배포 실행 `41303801527`의 성공을 확인했다. 이후 main push 자동 배포를 시험하기 위해 이 문서 기록을 추가한다. 사이트 기능과 서버 설정은 변경하지 않는다. 자동 배포 시험의 성공 여부는 해당 push의 Deploy MakeSNS 실행 결과와 `/deploy-version.json`의 커밋 번호를 대조해 별도로 확인한다.
