@@ -51,3 +51,9 @@ Secrets 등록, SSH 최초 설정, 첫 실제 GitHub 배포 성공은 별개 단
 이번 자동 배포는 **정적 프런트엔드 전용**이다. `services/links` 소스는 Git에 보관하고 테스트하지만 backend service 업데이트는 이 수신기가 수행하지 않는다. DB·서버 스키마·단축링크 API 변경은 별도 배포/호환 검토가 필요하다. 새 수신기 버전도 root 설정 번들을 다시 실행해야 갱신된다. 네트워크 방화벽이 GitHub runner의 SSH를 막으면 기존 SSH 설정/접근 정책을 확인해야 하며 이 스크립트는 방화벽이나 sshd_config를 변경하지 않는다.
 
 실패한 release는 진단을 위해 남으며 이전 active 경로는 `/opt/makesns/releases/site-gh-.../release-info.json`에 있다. 복구가 실행되면 GitHub 배포 단계도 실패로 표시된다. `current`와 운영 공개 버전을 확인한 뒤 원인을 해결해 재실행한다. CRM/단축링크 health가 기존부터 실패하면 사이트 변경 전에 중단한다.
+
+## 개인키 형식 오류
+
+`Load key ...: error in libcrypto`는 서버 접속 전에 개인키 파싱이 실패한 상태다. MAKESNS_SSH_KEY에는 `/root/...` 경로나 .pub 공개키가 아닌 github-actions 개인키 파일 전체(시작/끝 줄 포함)를 실제 줄바꿈으로 넣는다. 워크플로는 CRLF/마지막 줄바꿈을 정리하고 ssh-keygen으로 파싱을 확인한다. 오류 시 키 내용이나 provider 출력은 표시하지 않고 재등록 방법을 안내한다.
+
+Secret 수정 후에는 이전 실행의 Re-run이 아니라 main 기준 새 Run workflow를 실행해야 최신 워크플로 변경도 적용된다. 실행 환경은 ubuntu-24.04로 고정하고 Node 24용 checkout v6/setup-node v6/pnpm action-setup v5의 확인한 커밋을 사용한다. 이 변경이 실제 서버 인증 성공을 의미하지는 않는다.

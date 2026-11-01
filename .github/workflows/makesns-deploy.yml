@@ -20,19 +20,19 @@ jobs:
       github.ref == 'refs/heads/main' &&
       ((github.event_name == 'workflow_dispatch' && inputs.confirm_production) ||
       (github.event_name == 'push' && vars.MAKESNS_AUTO_DEPLOY == 'true'))
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     environment: production
     timeout-minutes: 25
     env:
       NEXT_TELEMETRY_DISABLED: '1'
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6, Node 24
         with:
           persist-credentials: false
-      - uses: pnpm/action-setup@v4
+      - uses: pnpm/action-setup@a8198c4bff370c8506180b035930dea56dbd5288 # v5, Node 24
         with:
           version: 11.19.0
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6, Node 24
         with:
           node-version: '24'
           cache: pnpm
@@ -61,10 +61,7 @@ jobs:
           key_dir=$(mktemp -d "$RUNNER_TEMP/makesns-ssh.XXXXXXXX")
           trap 'rm -rf -- "$key_dir"' EXIT
           umask 077
-          printf '%s\n' "$DEPLOY_KEY" > "$key_dir/key"
-          printf '%s\n' "$KNOWN_HOSTS" > "$key_dir/known_hosts"
-          ssh-keygen -y -P '' -f "$key_dir/key" > /dev/null
-          ssh-keygen -F 139.162.84.156 -f "$key_dir/known_hosts" > /dev/null
+          python3 scripts/write-deploy-credentials.py "$key_dir"
           ssh -T -p 22 -i "$key_dir/key" -o BatchMode=yes -o IdentitiesOnly=yes -o StrictHostKeyChecking=yes -o UserKnownHostsFile="$key_dir/known_hosts" -o ConnectTimeout=10 -o ServerAliveInterval=15 -o ServerAliveCountMax=3 makesns-deploy@139.162.84.156 deploy < "$RUNNER_TEMP/makesns-ci.tar.gz"
       - name: Record deployed revision
         run: |
