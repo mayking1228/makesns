@@ -32,7 +32,11 @@ jobs:
         run: pnpm typecheck
       - name: Test tools and isolated short links
         run: pnpm test
+      - name: Test deployment validation and rollback
+        run: python3 -m unittest discover -s deploy/tests -v
       - name: Build multilingual static website
         run: pnpm build
       - name: Check visible library labels in eight languages
-        run: python3 scripts/check-site-labels.py out
+        run: |
+          python3 scripts/check-site-labels.py out
+          python3 scripts/check-site-seo.py out

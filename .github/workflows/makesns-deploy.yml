@@ -1,0 +1,71 @@
+name: Deploy MakeSNS
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      confirm_production:
+        description: 'makesns.com 운영 사이트에 이 main 커밋을 배포합니다'
+        required: true
+        default: false
+        type: boolean
+permissions:
+  contents: read
+concurrency:
+  group: makesns-production
+  cancel-in-progress: false
+jobs:
+  deploy:
+    if: >-
+      github.ref == 'refs/heads/main' &&
+      ((github.event_name == 'workflow_dispatch' && inputs.confirm_production) ||
+      (github.event_name == 'push' && vars.MAKESNS_AUTO_DEPLOY == 'true'))
+    runs-on: ubuntu-latest
+    environment: production
+    timeout-minutes: 25
+    env:
+      NEXT_TELEMETRY_DISABLED: '1'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11.19.0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: pnpm
+          cache-dependency-path: pnpm-lock.yaml
+      - name: Install locked dependencies
+        run: pnpm install --frozen-lockfile
+      - name: Check types and tools
+        run: |
+          pnpm typecheck
+          pnpm test
+          python3 -m unittest discover -s deploy/tests -v
+      - name: Build and check static website
+        run: |
+          pnpm build
+          python3 scripts/check-site-labels.py out
+          python3 scripts/check-site-seo.py out
+          python3 scripts/package-ci.py "$RUNNER_TEMP/makesns-ci.tar.gz"
+      - name: Send static artifact to restricted receiver
+        env:
+          DEPLOY_KEY: ${{ secrets.MAKESNS_SSH_KEY }}
+          KNOWN_HOSTS: ${{ secrets.MAKESNS_SSH_KNOWN_HOSTS }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -n "$DEPLOY_KEY" && test -n "$KNOWN_HOSTS" || { echo 'GitHub Actions Secrets에 MAKESNS_SSH_KEY와 MAKESNS_SSH_KNOWN_HOSTS를 등록하세요.'; exit 1; }
+          key_dir=$(mktemp -d "$RUNNER_TEMP/makesns-ssh.XXXXXXXX")
+          trap 'rm -rf -- "$key_dir"' EXIT
+          umask 077
+          printf '%s\n' "$DEPLOY_KEY" > "$key_dir/key"
+          printf '%s\n' "$KNOWN_HOSTS" > "$key_dir/known_hosts"
+          ssh-keygen -y -P '' -f "$key_dir/key" > /dev/null
+          ssh-keygen -F 139.162.84.156 -f "$key_dir/known_hosts" > /dev/null
+          ssh -T -p 22 -i "$key_dir/key" -o BatchMode=yes -o IdentitiesOnly=yes -o StrictHostKeyChecking=yes -o UserKnownHostsFile="$key_dir/known_hosts" -o ConnectTimeout=10 -o ServerAliveInterval=15 -o ServerAliveCountMax=3 makesns-deploy@139.162.84.156 deploy < "$RUNNER_TEMP/makesns-ci.tar.gz"
+      - name: Record deployed revision
+        run: |
+          printf 'MakeSNS static deployment verified: `%s`\n' "$GITHUB_SHA" >> "$GITHUB_STEP_SUMMARY"

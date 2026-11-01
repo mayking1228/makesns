@@ -149,3 +149,7 @@ Routes es (Español) and ms (Bahasa Melayu) join en/ko/ja. Each includes all too
 ## GitHub 보관과 자동 검사
 
 최신 범위·운영 배포 상태·CI 구성은 [GitHub 개발 인계](docs/GITHUB-HANDOFF-2026-11-01.md)를 참고하세요. GitHub 업로드는 운영 서버 변경을 실행하지 않습니다.
+
+## 서버 자동 배포
+
+[GitHub Actions 최초 연결](docs/AUTO-DEPLOY.md)을 참고하세요. 최초 SSH 계정 설정과 Secrets 2개 등록 후 수동 배포를 확인하고, `MAKESNS_AUTO_DEPLOY=true`로 main push 자동 배포를 켭니다. 정적 사이트 전용이며 단축링크 백엔드·CRM은 변경하지 않습니다.
