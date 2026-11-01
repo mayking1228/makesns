@@ -1,0 +1,4 @@
+import {Sticker,Camera,Link2,Smile,BookHeart,AlignLeft,Type,Sparkles,Crop,ScanFace,Clapperboard,QrCode,ArrowUpRight} from 'lucide-react';
+import type {NavGroup,NavToolId} from '@/lib/navigation';
+const icons={text:Sticker,media:Camera,links:Link2,profile:Smile,examples:BookHeart,caption:AlignLeft,fonts:Type,symbols:Sparkles,resizer:Crop,'round-photo':ScanFace,'reels-cover':Clapperboard,'qr-code':QrCode,'short-links':ArrowUpRight};
+export function NavigationIcon({name,small=false}:{name:NavGroup|NavToolId;small?:boolean}){const Icon=icons[name];const color=['caption','fonts','symbols','text'].includes(name)?'text':['resizer','round-photo','reels-cover','media'].includes(name)?'media':['qr-code','short-links','links'].includes(name)?'links':'profile';return <span className={'navigation-icon navigation-icon-'+color+(small?' small':'')} aria-hidden="true"><Icon size={small?18:22} strokeWidth={1.8}/></span>;}

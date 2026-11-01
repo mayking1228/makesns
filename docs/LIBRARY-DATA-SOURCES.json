@@ -1,0 +1,20 @@
+{
+  "emojiVersion": "16.0",
+  "sources": [
+    "https://raw.githubusercontent.com/unicode-org/unicodetools/main/unicodetools/data/emoji/16.0/emoji-test.txt",
+    "https://github.com/unicode-org/cldr-json/tree/main/cldr-json/cldr-annotations-full"
+  ],
+  "retrieved": "2026-11-01",
+  "sha256": {
+    "annotations-en.json": "6b6b6e0e5f211bc31cf3fa39f385d80dea6cd19ee19bbc6db9071fce3ae5d360",
+    "annotations-es.json": "f4149459f74207b235e673f62f5671c06ac97ae53f2c1d100e1eae40e54c5306",
+    "annotations-id.json": "58bc0c773be9c051012d9d62c7ba21668dfdc1c2cf91f565b5abe1bdb199ef97",
+    "annotations-ja.json": "e42dacabf2eee0aab36c168c995efeaf8add896f8940c5ee86a809d85c2816e7",
+    "annotations-ko.json": "a5c9ee589b657a0252a4d951bbe2df6d2b8e95a8a24e12a152629ce055f7b5fa",
+    "annotations-ms.json": "baf86c65ea788197176ea81c7778a66fc32aff34a243baf1357feb6fc51b2334",
+    "annotations-pt.json": "a64a01f9906ec754487d4d903caa6fb62ee9613047a1c8cfd1c82a0216f0df5e",
+    "annotations-tr.json": "fb0e681274bfc627e8008935034618e362ec832e15b70bed1c095d89951de03f"
+  },
+  "entries": 1118,
+  "license": "/licenses/UNICODE-LICENSE.txt"
+}

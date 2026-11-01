@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "cafe",
+    "title": "카페 · 일상",
+    "subtitle": "차분한 기록",
+    "handle": "daily.archive",
+    "before": "홍길동\n서울 거주. 카페 투어와 사진 찍는 일상.\n기록용 계정입니다.",
+    "after": "ɢɪʟ-ᴅᴏɴɢ ☕️\n˗ˋˏ 서울 ˎˊ˗\n⋆⁺₊⋆ 카페 투어 & 필름 사진 📸\n˙ᵕ˙ 기록용 일상 아카이브\n─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───"
+  },
+  {
+    "id": "y2k",
+    "title": "Y2K · 스트릿",
+    "subtitle": "개성 있는 영문",
+    "handle": "mina.street",
+    "before": "Mina\n2002. Seoul. Fashion and music.\nDon't DM.",
+    "after": "𝕸𝖎𝖓𝖆 ִ ࣪𖤐\n𓆩♡𓆪 𝟚𝟘𝟘𝟚 ⋆｡˚ 𓆝\n₊˚ 🦢・₊✧ fashion & beats\n☠ no dms <3"
+  },
+  {
+    "id": "lovely",
+    "title": "러블리 · 팬 계정",
+    "subtitle": "리본과 얼굴문자",
+    "handle": "yuna.diary",
+    "before": "유나\n최애 아이돌 응원 계정입니다.\n소통 환영해요.",
+    "after": "୨୧ 𝒴𝓊𝓃𝒶 ୨୧\nʚ✞ɞ 𝟎𝟒.𝟐𝟔 ~ ing ໒꒱\n( ᴗ ̫ ᴗ ) 최애 덕질 일기 🫧\n(ᐡ•̥ •̥ᐡ) 소통 환영해요 ⸝⸝⸝♡"
+  },
+  {
+    "id": "business",
+    "title": "비즈니스 · 브랜딩",
+    "subtitle": "정보를 읽기 쉽게",
+    "handle": "kim.studio",
+    "before": "김대표\n온라인 쇼핑몰 운영 및 마케팅 팁 공유.\n1인 창업 노하우와 실전 사례를 나눕니다.\n아래 링크 클릭.",
+    "after": "𝗞𝗜𝗠 ✦ 비즈니스 디렉터\n▫️ 온라인 쇼핑몰 운영 노하우\n▫️ 1인 창업가를 위한 마케팅 툴킷\n▫️ 직접 경험한 실전 인사이트\n〰️\n👇 가이드와 작업 사례는 아래 링크"
+  },
+  {
+    "id": "travel",
+    "title": "여행 · 빈티지",
+    "subtitle": "여유로운 여행 기록",
+    "handle": "slow.traveler",
+    "before": "traveler\nliving in seoul, love vintage\nportfolio link below",
+    "after": "𝘵 𝘳 𝘢 𝘷 𝘦 𝘭 𝘦 𝘳 🕊️\n📍 𝐒𝐞𝐨𝐮𝐥 — 𝘝𝘪𝘯𝘵𝘢𝘨𝘦 𝘭𝘰𝘷𝘦𝘳\n༘⋆ captures of everyday moments\n🔗 𝗉𝗈𝗋𝗍𝖿𝗈𝗅𝗂𝗈 & 𝗐𝗈𝗋𝗄"
+  },
+  {
+    "id": "cafe",
+    "title": "Café & everyday",
+    "subtitle": "Small everyday moments",
+    "handle": "daily.archive",
+    "before": "Gil-dong\nLiving in Seoul. Cafés and photography.\nMy daily archive.",
+    "after": "ɢɪʟ-ᴅᴏɴɢ ☕️\n˗ˋˏ Seoul ˎˊ˗\n⋆⁺₊⋆ café hopping & film photos 📸\n˙ᵕ˙ a little archive of my days\n─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───"
+  },
+  {
+    "id": "y2k",
+    "title": "Y2K & street",
+    "subtitle": "Letters with attitude",
+    "handle": "mina.street",
+    "before": "Mina\n2002. Seoul. Fashion and music.\nDon't DM.",
+    "after": "𝕸𝖎𝖓𝖆 ִ ࣪𖤐\n𓆩♡𓆪 𝟚𝟘𝟘𝟚 ⋆｡˚ 𓆝\n₊˚ 🦢・₊✧ fashion & beats\n☠ no dms <3"
+  },
+  {
+    "id": "lovely",
+    "title": "Lovely & fan diary",
+    "subtitle": "Ribbons and kaomoji",
+    "handle": "yuna.diary",
+    "before": "Yuna\nA diary for my favorite idol.\nHappy to meet fellow fans.",
+    "after": "୨୧ 𝒴𝓊𝓃𝒶 ୨୧\nʚ✞ɞ 𝟎𝟒.𝟐𝟔 ~ ing ໒꒱\n( ᴗ ̫ ᴗ ) my little fan diary 🫧\n(ᐡ•̥ •̥ᐡ) fellow fans welcome ⸝⸝⸝♡"
+  },
+  {
+    "id": "business",
+    "title": "Business & branding",
+    "subtitle": "Clear, useful information",
+    "handle": "kim.studio",
+    "before": "Kim\nRunning an online shop and sharing marketing tips.\nPractical ideas for solo founders.\nLink below.",
+    "after": "𝗞𝗜𝗠 ✦ business & marketing\n▫️ lessons from running an online shop\n▫️ tools for solo founders\n▫️ practical ideas from experience\n〰️\n👇 guides & selected work below"
+  },
+  {
+    "id": "travel",
+    "title": "Travel & vintage",
+    "subtitle": "A slower kind of travel",
+    "handle": "slow.traveler",
+    "before": "traveler\nliving in seoul, love vintage\nportfolio link below",
+    "after": "𝘵 𝘳 𝘢 𝘷 𝘦 𝘭 𝘦 𝘳 🕊️\n📍 𝐒𝐞𝐨𝐮𝐥 — 𝘝𝘪𝘯𝘵𝘢𝘨𝘦 𝘭𝘰𝘷𝘦𝘳\n༘⋆ captures of everyday moments\n🔗 𝗉𝗈𝗋𝗍𝖿𝗈𝗅𝗂𝗈 & 𝗐𝗈𝗋𝗄"
+  },
+  {
+    "id": "cafe",
+    "title": "カフェ・日常",
+    "subtitle": "日々の記録に",
+    "handle": "daily.archive",
+    "before": "はる\n東京のカフェと写真が好きです。\n日々の記録用アカウント。",
+    "after": "ʜᴀʀᴜ ☕️\n˗ˋˏ 東京 ˎˊ˗\n⋆⁺₊⋆ カフェ巡りとフィルム写真 📸\n˙ᵕ˙ 日々の記録を、気ままに\n─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───"
+  },
+  {
+    "id": "y2k",
+    "title": "Y2K・ストリート",
+    "subtitle": "英字で個性をプラス",
+    "handle": "mina.street",
+    "before": "Mina\n2002. Tokyo. Fashion and music.\nDon't DM.",
+    "after": "𝕸𝖎𝖓𝖆 ִ ࣪𖤐\n𓆩♡𓆪 𝟚𝟘𝟘𝟚 ⋆｡˚ 𓆝\n₊˚ 🦢・₊✧ fashion & beats\n☠ no dms <3"
+  },
+  {
+    "id": "lovely",
+    "title": "かわいい・推し活",
+    "subtitle": "リボンと顔文字でかわいく",
+    "handle": "yuna.diary",
+    "before": "ゆな\n推しを応援するアカウントです。\n同じ趣味の方とつながりたいです。",
+    "after": "୨୧ 𝒴𝓊𝓃𝒶 ୨୧\nʚ✞ɞ 𝟎𝟒.𝟐𝟔 ~ ing ໒꒱\n( ᴗ ̫ ᴗ ) 推し活の記録 🫧\n(ᐡ•̥ •̥ᐡ) お話できたらうれしいです ⸝⸝⸝♡"
+  },
+  {
+    "id": "business",
+    "title": "ビジネス・発信",
+    "subtitle": "伝えたい情報をすっきり",
+    "handle": "kim.studio",
+    "before": "きむ\nネットショップ運営とマーケティングのヒントを発信。\nひとり起業の実践例を紹介します。\nリンクはこちら。",
+    "after": "𝗞𝗜𝗠 ✦ ショップ運営・発信\n▫️ ネットショップ運営のヒント\n▫️ ひとり起業に役立つツール\n▫️ 実体験をもとにしたアイデア\n〰️\n👇 ガイド・制作実績はこちら"
+  },
+  {
+    "id": "travel",
+    "title": "旅行・ヴィンテージ",
+    "subtitle": "旅の記録を自分らしく",
+    "handle": "slow.traveler",
+    "before": "traveler\nliving in tokyo, love vintage\nportfolio link below",
+    "after": "𝘵 𝘳 𝘢 𝘷 𝘦 𝘭 𝘦 𝘳 🕊️\n📍 𝐓𝐨𝐤𝐲𝐨 — 𝘝𝘪𝘯𝘵𝘢𝘨𝘦 𝘭𝘰𝘷𝘦𝘳\n༘⋆ 日々の景色と、旅の記録\n🔗 𝗉𝗈𝗋𝗍𝖿𝗈𝗅𝗂𝗈 & 𝗐𝗈𝗋𝗄"
+  },
+  {
+    "id": "cafe",
+    "title": "카페·사진 기록",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.cafe",
+    "before": "민지 | 카페와 필름\n☕ 서울 카페와 필름 사진 좋았던 공간을 천천히 모아요 위치는 게시물에 남겨둘게요",
+    "after": "민지 | 카페와 필름\n☕ 서울 카페와 필름 사진\n좋았던 공간을 천천히 모아요\n위치는 게시물에 남겨둘게요"
+  },
+  {
+    "id": "daily",
+    "title": "일상·미니멀",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.daily",
+    "before": "서연\n산책하고, 읽고, 가끔 여행해요 오래 기억하고 싶은 날들",
+    "after": "서연\n산책하고, 읽고, 가끔 여행해요\n오래 기억하고 싶은 날들"
+  },
+  {
+    "id": "y2k",
+    "title": "패션·스트릿",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.y2k",
+    "before": "MINA ✦\n오늘 입은 옷, 요즘 듣는 음악 빈티지와 오래된 운동화 수집 중 착장 정보는 게시물에",
+    "after": "MINA ✦\n오늘 입은 옷, 요즘 듣는 음악\n빈티지와 오래된 운동화 수집 중\n착장 정보는 게시물에"
+  },
+  {
+    "id": "lovely",
+    "title": "덕질·팬 기록",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.lovely",
+    "before": "유나 ୨୧\n좋아하는 무대와 공연의 기록 같이 이야기할 분들 환영해요 ♡ 팬 계정 · 공식 계정 아님",
+    "after": "유나 ୨୧\n좋아하는 무대와 공연의 기록\n같이 이야기할 분들 환영해요 ♡\n팬 계정 · 공식 계정 아님"
+  },
+  {
+    "id": "travel",
+    "title": "여행·주말 기록",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.travel",
+    "before": "지수 | 주말 여행\n가까운 곳부터 하나씩 뚜벅이 여행 · 숙소 · 동네 산책 다녀온 코스는 게시물에 정리해요",
+    "after": "지수 | 주말 여행\n가까운 곳부터 하나씩\n뚜벅이 여행 · 숙소 · 동네 산책\n다녀온 코스는 게시물에 정리해요"
+  },
+  {
+    "id": "photographer",
+    "title": "사진가·작업 의뢰",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.photographer",
+    "before": "도윤 | 인물 사진\n자연스러운 표정과 빛을 담아요 서울 · 프로필 / 커플 스냅 촬영 문의는 아래 링크로",
+    "after": "도윤 | 인물 사진\n자연스러운 표정과 빛을 담아요\n서울 · 프로필 / 커플 스냅\n촬영 문의는 아래 링크로"
+  },
+  {
+    "id": "shop",
+    "title": "동네 카페",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.shop",
+    "before": "모퉁이 커피 | 연남동\n커피와 직접 굽는 작은 과자 수–일 11:00–19:00 · 월·화 휴무 오시는 길과 메뉴는 아래 링크",
+    "after": "모퉁이 커피 | 연남동\n커피와 직접 굽는 작은 과자\n수–일 11:00–19:00 · 월·화 휴무\n오시는 길과 메뉴는 아래 링크"
+  },
+  {
+    "id": "local-business",
+    "title": "공방·클래스",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.local.business",
+    "before": "온유공방 | 도자기\n손으로 빚는 나만의 그릇 처음 오시는 분도 함께할 수 있어요 수업 일정·예약은 아래 링크",
+    "after": "온유공방 | 도자기\n손으로 빚는 나만의 그릇\n처음 오시는 분도 함께할 수 있어요\n수업 일정·예약은 아래 링크"
+  },
+  {
+    "id": "business",
+    "title": "프리랜서·디자인",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.business",
+    "before": "수빈 | 브랜드 디자이너\n작은 브랜드의 시작을 함께합니다 로고 · 패키지 · 그래픽 포트폴리오와 작업 문의 ↓",
+    "after": "수빈 | 브랜드 디자이너\n작은 브랜드의 시작을 함께합니다\n로고 · 패키지 · 그래픽\n포트폴리오와 작업 문의 ↓"
+  },
+  {
+    "id": "pets",
+    "title": "반려동물",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.pets",
+    "before": "보리의 산책일지 🐾\n산책이 제일 좋은 강아지 보리 동네 한 바퀴와 주말 나들이 사진은 집사가 올려요",
+    "after": "보리의 산책일지 🐾\n산책이 제일 좋은 강아지 보리\n동네 한 바퀴와 주말 나들이\n사진은 집사가 올려요"
+  },
+  {
+    "id": "student",
+    "title": "학생·캠퍼스 일상",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.student",
+    "before": "지민 | 캠퍼스 일상\n수업 끝나면 카페나 도서관 공부 기록 · 동아리 · 소소한 일상 전공도 취향도 알아가는 중 📚",
+    "after": "지민 | 캠퍼스 일상\n수업 끝나면 카페나 도서관\n공부 기록 · 동아리 · 소소한 일상\n전공도 취향도 알아가는 중 📚"
+  },
+  {
+    "id": "beauty",
+    "title": "뷰티 인플루언서",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.beauty",
+    "before": "소윤 | 메이크업·뷰티 리뷰\n직접 써본 화장품과 데일리 메이크업 피부 타입: 복합성 · 제품별 사용감 기록 광고·협찬 여부는 게시물에 표시해요 협업 문의는 아래 메일로 ↓",
+    "after": "소윤 | 메이크업·뷰티 리뷰\n직접 써본 화장품과 데일리 메이크업\n피부 타입: 복합성 · 제품별 사용감 기록\n광고·협찬 여부는 게시물에 표시해요\n협업 문의는 아래 메일로 ↓"
+  },
+  {
+    "id": "company",
+    "title": "회사 공식계정",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.company",
+    "before": "온담 스튜디오 | 공식 계정\n브랜드의 시작을 함께하는 디자인 스튜디오 프로젝트 · 팀 소식 · 작업 이야기 서비스 안내와 문의는 공식 홈페이지 ↓",
+    "after": "온담 스튜디오 | 공식 계정\n브랜드의 시작을 함께하는 디자인 스튜디오\n프로젝트 · 팀 소식 · 작업 이야기\n서비스 안내와 문의는 공식 홈페이지 ↓"
+  },
+  {
+    "id": "cafe",
+    "title": "Cafés & film",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.cafe",
+    "before": "Mia | cafés & film\nCoffee stops, city walks, a roll of film. London, mostly. Locations in the captions ↓",
+    "after": "Mia | cafés & film\nCoffee stops, city walks, a roll of film.\nLondon, mostly.\nLocations in the captions ↓"
+  },
+  {
+    "id": "daily",
+    "title": "Everyday / minimal",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.daily",
+    "before": "Ellie\nUsually reading, walking, or making coffee. A few things I want to remember.",
+    "after": "Ellie\nUsually reading, walking, or making coffee.\nA few things I want to remember."
+  },
+  {
+    "id": "y2k",
+    "title": "Personal style",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.y2k",
+    "before": "JULES ✦\nRepeat outfits. Secondhand finds. Good shoes, loud playlists. Outfit details in each post.",
+    "after": "JULES ✦\nRepeat outfits. Secondhand finds.\nGood shoes, loud playlists.\nOutfit details in each post."
+  },
+  {
+    "id": "lovely",
+    "title": "Fan account",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.lovely",
+    "before": "Alex | live music diary\nGig photos & setlist memories ♡ Always up for talking music. Fan account · not affiliated.",
+    "after": "Alex | live music diary\nGig photos & setlist memories ♡\nAlways up for talking music.\nFan account · not affiliated."
+  },
+  {
+    "id": "travel",
+    "title": "Weekend travel",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.travel",
+    "before": "Sam | weekends away\nShort trips without the packed itinerary. Train rides, little towns, good food. Saved routes & stays ↓",
+    "after": "Sam | weekends away\nShort trips without the packed itinerary.\nTrain rides, little towns, good food.\nSaved routes & stays ↓"
+  },
+  {
+    "id": "photographer",
+    "title": "Photographer",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.photographer",
+    "before": "Riley | portrait photographer\nRelaxed portraits, natural light. Based in Bristol · available to travel. Portfolio & booking enquiries ↓",
+    "after": "Riley | portrait photographer\nRelaxed portraits, natural light.\nBased in Bristol · available to travel.\nPortfolio & booking enquiries ↓"
+  },
+  {
+    "id": "shop",
+    "title": "Small shop",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.shop",
+    "before": "Field Notes Studio | ceramics\nSmall-batch pottery for everyday use. Made by hand in Portland. Shop & shipping details ↓",
+    "after": "Field Notes Studio | ceramics\nSmall-batch pottery for everyday use.\nMade by hand in Portland.\nShop & shipping details ↓"
+  },
+  {
+    "id": "local-business",
+    "title": "Neighborhood café",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.local.business",
+    "before": "Sunday Counter | coffee & bakes\nYour neighborhood coffee stop. Tue–Sun, 8am–3pm · closed Mondays Menu & directions ↓",
+    "after": "Sunday Counter | coffee & bakes\nYour neighborhood coffee stop.\nTue–Sun, 8am–3pm · closed Mondays\nMenu & directions ↓"
+  },
+  {
+    "id": "business",
+    "title": "Freelance designer",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.business",
+    "before": "Jamie | brand designer\nThoughtful identities for small businesses. Branding · packaging · print Selected work & project enquiries ↓",
+    "after": "Jamie | brand designer\nThoughtful identities for small businesses.\nBranding · packaging · print\nSelected work & project enquiries ↓"
+  },
+  {
+    "id": "pets",
+    "title": "Pets",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.pets",
+    "before": "Milo & his human 🐾\nProfessional stick collector. Walks, naps, repeat. Managed by the one holding the treats.",
+    "after": "Milo & his human 🐾\nProfessional stick collector.\nWalks, naps, repeat.\nManaged by the one holding the treats."
+  },
+  {
+    "id": "student",
+    "title": "Student / campus life",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.student",
+    "before": "Casey | campus days\nLectures, library breaks & life in between. Study notes, club days, weekend plans 📚",
+    "after": "Casey | campus days\nLectures, library breaks & life in between.\nStudy notes, club days, weekend plans 📚"
+  },
+  {
+    "id": "beauty",
+    "title": "Beauty creator",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.beauty",
+    "before": "Maya | makeup & beauty\nEveryday makeup & products I actually use. Combination skin · wear tests & routines Ads & gifted products disclosed in posts. Collabs ↓",
+    "after": "Maya | makeup & beauty\nEveryday makeup & products I actually use.\nCombination skin · wear tests & routines\nAds & gifted products disclosed in posts.\nCollabs ↓"
+  },
+  {
+    "id": "company",
+    "title": "Company account",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.company",
+    "before": "Northline Studio | Official\nBrand design for growing businesses. Our work, team updates & behind the scenes. Services & enquiries on our website ↓",
+    "after": "Northline Studio | Official\nBrand design for growing businesses.\nOur work, team updates & behind the scenes.\nServices & enquiries on our website ↓"
+  },
+  {
+    "id": "cafe",
+    "title": "カフェ巡り",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.cafe",
+    "before": "はる｜東京カフェ\n週末は気になるカフェへ ☕ コーヒーと焼き菓子が好きです お店の情報は投稿にまとめています",
+    "after": "はる｜東京カフェ\n週末は気になるカフェへ ☕\nコーヒーと焼き菓子が好きです\nお店の情報は投稿にまとめています"
+  },
+  {
+    "id": "daily",
+    "title": "日常・暮らし",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.daily",
+    "before": "なつ\n本と散歩、ときどき喫茶店 何気ない日々の記録 気ままに更新しています",
+    "after": "なつ\n本と散歩、ときどき喫茶店\n何気ない日々の記録\n気ままに更新しています"
+  },
+  {
+    "id": "y2k",
+    "title": "古着・コーデ",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.y2k",
+    "before": "mio｜古着と日々の服\n古着多めの着回し記録 スニーカーと音楽が好きです 着用アイテムは投稿に載せています",
+    "after": "mio｜古着と日々の服\n古着多めの着回し記録\nスニーカーと音楽が好きです\n着用アイテムは投稿に載せています"
+  },
+  {
+    "id": "lovely",
+    "title": "推し活",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.lovely",
+    "before": "ゆい ୨୧\n好きなステージと現場の記録 🫧 同じ趣味の方とお話できたらうれしいです ファンアカウントです",
+    "after": "ゆい ୨୧\n好きなステージと現場の記録 🫧\n同じ趣味の方とお話できたらうれしいです\nファンアカウントです"
+  },
+  {
+    "id": "travel",
+    "title": "週末旅",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.travel",
+    "before": "さき｜週末のおでかけ\n電車で行ける、小さな旅 喫茶店・温泉・街歩き 行き方や寄り道もまとめています",
+    "after": "さき｜週末のおでかけ\n電車で行ける、小さな旅\n喫茶店・温泉・街歩き\n行き方や寄り道もまとめています"
+  },
+  {
+    "id": "photographer",
+    "title": "写真・撮影依頼",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.photographer",
+    "before": "そう｜出張フォトグラファー\n家族写真・プロフィール撮影 東京を中心に出張しています 作例・撮影のご相談はこちら ↓",
+    "after": "そう｜出張フォトグラファー\n家族写真・プロフィール撮影\n東京を中心に出張しています\n作例・撮影のご相談はこちら ↓"
+  },
+  {
+    "id": "shop",
+    "title": "ハンドメイド",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.shop",
+    "before": "こもれび｜布小物\n暮らしになじむ、手作りの布小物 新作や制作の様子を載せています ご購入・発送についてはショップへ ↓",
+    "after": "こもれび｜布小物\n暮らしになじむ、手作りの布小物\n新作や制作の様子を載せています\nご購入・発送についてはショップへ ↓"
+  },
+  {
+    "id": "local-business",
+    "title": "ネイルサロン",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.local.business",
+    "before": "nagi nail｜吉祥寺\n日常に合わせやすいシンプルネイル 完全予約制 メニュー・空き状況・ご予約はこちら ↓",
+    "after": "nagi nail｜吉祥寺\n日常に合わせやすいシンプルネイル\n完全予約制\nメニュー・空き状況・ご予約はこちら ↓"
+  },
+  {
+    "id": "business",
+    "title": "イラスト・お仕事",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.business",
+    "before": "しおり｜イラストレーター\n食べものと暮らしのイラスト 制作実績を載せています お仕事のご相談はリンク先へ ↓",
+    "after": "しおり｜イラストレーター\n食べものと暮らしのイラスト\n制作実績を載せています\nお仕事のご相談はリンク先へ ↓"
+  },
+  {
+    "id": "pets",
+    "title": "手帳・文房具",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.pets",
+    "before": "あお｜手帳と文房具\n手帳と文房具の記録 ✎ 書くこと、集めることが好きです お気に入りを少しずつ紹介します",
+    "after": "あお｜手帳と文房具\n手帳と文房具の記録 ✎\n書くこと、集めることが好きです\nお気に入りを少しずつ紹介します"
+  },
+  {
+    "id": "student",
+    "title": "学生・キャンパスライフ",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.student",
+    "before": "りん｜大学生活の記録\n授業とサークル、ときどきカフェ 勉強のことも、休日のことも 📚 マイペースに更新しています",
+    "after": "りん｜大学生活の記録\n授業とサークル、ときどきカフェ\n勉強のことも、休日のことも 📚\nマイペースに更新しています"
+  },
+  {
+    "id": "beauty",
+    "title": "美容・コスメ発信",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.beauty",
+    "before": "まい｜コスメとメイク\n混合肌｜毎日のメイクと使い心地の記録 色味や使用感を写真で紹介しています PR・提供品は投稿に明記 お仕事のご相談はリンク先へ ↓",
+    "after": "まい｜コスメとメイク\n混合肌｜毎日のメイクと使い心地の記録\n色味や使用感を写真で紹介しています\nPR・提供品は投稿に明記\nお仕事のご相談はリンク先へ ↓"
+  },
+  {
+    "id": "company",
+    "title": "企業公式アカウント",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.company",
+    "before": "こはるデザイン｜公式\nお店やブランドのデザインをお手伝いします 制作実績・スタッフのこと・日々の取り組み サービスのご案内・お問い合わせはこちら ↓",
+    "after": "こはるデザイン｜公式\nお店やブランドのデザインをお手伝いします\n制作実績・スタッフのこと・日々の取り組み\nサービスのご案内・お問い合わせはこちら ↓"
+  },
+  {
+    "id": "cafe",
+    "title": "카페·사진 기록",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.cafe",
+    "before": "민지 | 카페와 필름\n☕ 서울 카페와 필름 사진 좋았던 공간을 천천히 모아요 위치는 게시물에 남겨둘게요",
+    "after": "민지 | 카페와 필름 ☕\n✧ ☕ 서울 카페와 필름 사진\n좋았던 공간을 천천히 모아요\n위치는 게시물에 남겨둘게요\n── ⋆ ──"
+  },
+  {
+    "id": "daily",
+    "title": "일상·미니멀",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.daily",
+    "before": "서연\n산책하고, 읽고, 가끔 여행해요 오래 기억하고 싶은 날들",
+    "after": "⌜ 서연 ⌟\n산책하고, 읽고, 가끔 여행해요\n⋆ 오래 기억하고 싶은 날들\n─ · ─"
+  },
+  {
+    "id": "y2k",
+    "title": "패션·스트릿",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.y2k",
+    "before": "MINA ✦\n오늘 입은 옷, 요즘 듣는 음악 빈티지와 오래된 운동화 수집 중 착장 정보는 게시물에",
+    "after": "MINA ✦ ★\n★ 오늘 입은 옷, 요즘 듣는 음악\n⭑ 빈티지와 오래된 운동화 수집 중\n착장 정보는 게시물에\n⋆ ── ⋆"
+  },
+  {
+    "id": "lovely",
+    "title": "덕질·팬 기록",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.lovely",
+    "before": "유나 ୨୧\n좋아하는 무대와 공연의 기록 같이 이야기할 분들 환영해요 ♡ 팬 계정 · 공식 계정 아님",
+    "after": "୨୧ 유나 ୨୧ ୨୧\n♡ 좋아하는 무대와 공연의 기록\n같이 이야기할 분들 환영해요 ♡\n팬 계정 · 공식 계정 아님\n(˶ᵔ ᵕ ᵔ˶)"
+  },
+  {
+    "id": "travel",
+    "title": "여행·주말 기록",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.travel",
+    "before": "지수 | 주말 여행\n가까운 곳부터 하나씩 뚜벅이 여행 · 숙소 · 동네 산책 다녀온 코스는 게시물에 정리해요",
+    "after": "지수 | 주말 여행 ↟\n↟ 가까운 곳부터 하나씩\n⌁ 뚜벅이 여행 · 숙소 · 동네 산책\n다녀온 코스는 게시물에 정리해요\n── ⌁ ──"
+  },
+  {
+    "id": "photographer",
+    "title": "사진가·작업 의뢰",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.photographer",
+    "before": "도윤 | 인물 사진\n자연스러운 표정과 빛을 담아요 서울 · 프로필 / 커플 스냅 촬영 문의는 아래 링크로",
+    "after": "도윤 | 인물 사진 ✦\n✦ 자연스러운 표정과 빛을 담아요\n▫ 서울 · 프로필 / 커플 스냅\n↳ 촬영 문의는 아래 링크로\n─ ◇ ─"
+  },
+  {
+    "id": "shop",
+    "title": "동네 카페",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.shop",
+    "before": "모퉁이 커피 | 연남동\n커피와 직접 굽는 작은 과자 수–일 11:00–19:00 · 월·화 휴무 오시는 길과 메뉴는 아래 링크",
+    "after": "ꕤ 모퉁이 커피 | 연남동\nꕤ 커피와 직접 굽는 작은 과자\n수–일 11:00–19:00 · 월·화 휴무\n↳ 오시는 길과 메뉴는 아래 링크\n─ ꕤ ─"
+  },
+  {
+    "id": "local-business",
+    "title": "공방·클래스",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.local.business",
+    "before": "온유공방 | 도자기\n손으로 빚는 나만의 그릇 처음 오시는 분도 함께할 수 있어요 수업 일정·예약은 아래 링크",
+    "after": "온유공방 | 도자기 ⌂\n▫ 손으로 빚는 나만의 그릇\n▫ 처음 오시는 분도 함께할 수 있어요\n↳ 수업 일정·예약은 아래 링크\n─ · ─"
+  },
+  {
+    "id": "business",
+    "title": "프리랜서·디자인",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.business",
+    "before": "수빈 | 브랜드 디자이너\n작은 브랜드의 시작을 함께합니다 로고 · 패키지 · 그래픽 포트폴리오와 작업 문의 ↓",
+    "after": "수빈 | 브랜드 디자이너 ✦\n✦ 작은 브랜드의 시작을 함께합니다\n▫ 로고 · 패키지 · 그래픽\n↳ 포트폴리오와 작업 문의 ↓\n─ ◇ ─"
+  },
+  {
+    "id": "pets",
+    "title": "반려동물",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.pets",
+    "before": "보리의 산책일지 🐾\n산책이 제일 좋은 강아지 보리 동네 한 바퀴와 주말 나들이 사진은 집사가 올려요",
+    "after": "♡ 보리의 산책일지 🐾 ♡\n♡ 산책이 제일 좋은 강아지 보리\n동네 한 바퀴와 주말 나들이\n사진은 집사가 올려요\n୨୧ ─ ୨୧"
+  },
+  {
+    "id": "student",
+    "title": "학생·캠퍼스 일상",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.student",
+    "before": "지민 | 캠퍼스 일상\n수업 끝나면 카페나 도서관 공부 기록 · 동아리 · 소소한 일상 전공도 취향도 알아가는 중 📚",
+    "after": "지민 | 캠퍼스 일상 ✎\n✎ 수업 끝나면 카페나 도서관\n▫ 공부 기록 · 동아리 · 소소한 일상\n전공도 취향도 알아가는 중 📚\n─ ✧ ─"
+  },
+  {
+    "id": "beauty",
+    "title": "뷰티 인플루언서",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.beauty",
+    "before": "소윤 | 메이크업·뷰티 리뷰\n직접 써본 화장품과 데일리 메이크업 피부 타입: 복합성 · 제품별 사용감 기록 광고·협찬 여부는 게시물에 표시해요 협업 문의는 아래 메일로 ↓",
+    "after": "୨୧ 소윤 | 메이크업·뷰티 리뷰\n✧ 직접 써본 화장품과 데일리 메이크업\n피부 타입: 복합성 · 제품별 사용감 기록\n광고·협찬 여부는 게시물에 표시해요\n협업 문의는 아래 메일로 ↓\n─ ♡ ─"
+  },
+  {
+    "id": "company",
+    "title": "회사 공식계정",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.company",
+    "before": "온담 스튜디오 | 공식 계정\n브랜드의 시작을 함께하는 디자인 스튜디오 프로젝트 · 팀 소식 · 작업 이야기 서비스 안내와 문의는 공식 홈페이지 ↓",
+    "after": "온담 스튜디오 | 공식 계정 ▪\n▪ 브랜드의 시작을 함께하는 디자인 스튜디오\n▫ 프로젝트 · 팀 소식 · 작업 이야기\n↳ 서비스 안내와 문의는 공식 홈페이지 ↓\n─ ▪ ─"
+  },
+  {
+    "id": "cafe",
+    "title": "Cafés & film",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.cafe",
+    "before": "Mia | cafés & film\nCoffee stops, city walks, a roll of film. London, mostly. Locations in the captions ↓",
+    "after": "𝑀𝑖𝑎 | cafés & film ☕\n✧ Coffee stops, city walks, a roll of film.\nLondon, mostly.\nLocations in the captions ↓\n── ⋆ ──"
+  },
+  {
+    "id": "daily",
+    "title": "Everyday / minimal",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.daily",
+    "before": "Ellie\nUsually reading, walking, or making coffee. A few things I want to remember.",
+    "after": "⌜ 𝖤𝗅𝗅𝗂𝖾 ⌟\nUsually reading, walking, or making coffee.\n⋆ A few things I want to remember.\n─ · ─"
+  },
+  {
+    "id": "y2k",
+    "title": "Personal style",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.y2k",
+    "before": "JULES ✦\nRepeat outfits. Secondhand finds. Good shoes, loud playlists. Outfit details in each post.",
+    "after": "𝕵𝖀𝕷𝕰𝕾 ✦ ★\n★ Repeat outfits. Secondhand finds.\n⭑ Good shoes, loud playlists.\nOutfit details in each post.\n⋆ ── ⋆"
+  },
+  {
+    "id": "lovely",
+    "title": "Fan account",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.lovely",
+    "before": "Alex | live music diary\nGig photos & setlist memories ♡ Always up for talking music. Fan account · not affiliated.",
+    "after": "୨୧ 𝒜𝓁ℯ𝓍 | live music diary ୨୧\n♡ Gig photos & setlist memories ♡\nAlways up for talking music.\nFan account · not affiliated.\n(˶ᵔ ᵕ ᵔ˶)"
+  },
+  {
+    "id": "travel",
+    "title": "Weekend travel",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.travel",
+    "before": "Sam | weekends away\nShort trips without the packed itinerary. Train rides, little towns, good food. Saved routes & stays ↓",
+    "after": "𝑆𝑎𝑚 | weekends away ↟\n↟ Short trips without the packed itinerary.\n⌁ Train rides, little towns, good food.\nSaved routes & stays ↓\n── ⌁ ──"
+  },
+  {
+    "id": "photographer",
+    "title": "Photographer",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.photographer",
+    "before": "Riley | portrait photographer\nRelaxed portraits, natural light. Based in Bristol · available to travel. Portfolio & booking enquiries ↓",
+    "after": "𝚁𝚒𝚕𝚎𝚢 | portrait photographer ✦\n✦ Relaxed portraits, natural light.\n▫ Based in Bristol · available to travel.\n↳ Portfolio & booking enquiries ↓\n─ ◇ ─"
+  },
+  {
+    "id": "shop",
+    "title": "Small shop",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.shop",
+    "before": "Field Notes Studio | ceramics\nSmall-batch pottery for everyday use. Made by hand in Portland. Shop & shipping details ↓",
+    "after": "ꕤ ℱ𝒾ℯ𝓁𝒹 Notes Studio | ceramics\nꕤ Small-batch pottery for everyday use.\nMade by hand in Portland.\n↳ Shop & shipping details ↓\n─ ꕤ ─"
+  },
+  {
+    "id": "local-business",
+    "title": "Neighborhood café",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.local.business",
+    "before": "Sunday Counter | coffee & bakes\nYour neighborhood coffee stop. Tue–Sun, 8am–3pm · closed Mondays Menu & directions ↓",
+    "after": "𝗦𝘂𝗻𝗱𝗮𝘆 Counter | coffee & bakes ⌂\n▫ Your neighborhood coffee stop.\n▫ Tue–Sun, 8am–3pm · closed Mondays\n↳ Menu & directions ↓\n─ · ─"
+  },
+  {
+    "id": "business",
+    "title": "Freelance designer",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.business",
+    "before": "Jamie | brand designer\nThoughtful identities for small businesses. Branding · packaging · print Selected work & project enquiries ↓",
+    "after": "𝗝𝗮𝗺𝗶𝗲 | brand designer ✦\n✦ Thoughtful identities for small businesses.\n▫ Branding · packaging · print\n↳ Selected work & project enquiries ↓\n─ ◇ ─"
+  },
+  {
+    "id": "pets",
+    "title": "Pets",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.pets",
+    "before": "Milo & his human 🐾\nProfessional stick collector. Walks, naps, repeat. Managed by the one holding the treats.",
+    "after": "♡ 𝖬𝗂𝗅𝗈 & his human 🐾 ♡\n♡ Professional stick collector.\nWalks, naps, repeat.\nManaged by the one holding the treats.\n୨୧ ─ ୨୧"
+  },
+  {
+    "id": "student",
+    "title": "Student / campus life",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.student",
+    "before": "Casey | campus days\nLectures, library breaks & life in between. Study notes, club days, weekend plans 📚",
+    "after": "𝙲𝚊𝚜𝚎𝚢 | campus days ✎\n✎ Lectures, library breaks & life in between.\n▫ Study notes, club days, weekend plans 📚\n─ ✧ ─"
+  },
+  {
+    "id": "beauty",
+    "title": "Beauty creator",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.beauty",
+    "before": "Maya | makeup & beauty\nEveryday makeup & products I actually use. Combination skin · wear tests & routines Ads & gifted products disclosed in posts. Collabs ↓",
+    "after": "୨୧ ℳ𝒶𝓎𝒶 | makeup & beauty\n✧ Everyday makeup & products I actually use.\nCombination skin · wear tests & routines\nAds & gifted products disclosed in posts.\nCollabs ↓\n─ ♡ ─"
+  },
+  {
+    "id": "company",
+    "title": "Company account",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.company",
+    "before": "Northline Studio | Official\nBrand design for growing businesses. Our work, team updates & behind the scenes. Services & enquiries on our website ↓",
+    "after": "𝗡𝗼𝗿𝘁𝗵𝗹𝗶𝗻𝗲 Studio | Official ▪\n▪ Brand design for growing businesses.\n▫ Our work, team updates & behind the scenes.\n↳ Services & enquiries on our website ↓\n─ ▪ ─"
+  },
+  {
+    "id": "cafe",
+    "title": "カフェ巡り",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.cafe",
+    "before": "はる｜東京カフェ\n週末は気になるカフェへ ☕ コーヒーと焼き菓子が好きです お店の情報は投稿にまとめています",
+    "after": "はる｜東京カフェ ☕\n✧ 週末は気になるカフェへ ☕\nコーヒーと焼き菓子が好きです\nお店の情報は投稿にまとめています\n── ⋆ ──"
+  },
+  {
+    "id": "daily",
+    "title": "日常・暮らし",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.daily",
+    "before": "なつ\n本と散歩、ときどき喫茶店 何気ない日々の記録 気ままに更新しています",
+    "after": "⌜ なつ ⌟\n本と散歩、ときどき喫茶店\n⋆ 何気ない日々の記録\n気ままに更新しています\n─ · ─"
+  },
+  {
+    "id": "y2k",
+    "title": "古着・コーデ",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.y2k",
+    "before": "mio｜古着と日々の服\n古着多めの着回し記録 スニーカーと音楽が好きです 着用アイテムは投稿に載せています",
+    "after": "mio｜古着と日々の服 ★\n★ 古着多めの着回し記録\n⭑ スニーカーと音楽が好きです\n着用アイテムは投稿に載せています\n⋆ ── ⋆"
+  },
+  {
+    "id": "lovely",
+    "title": "推し活",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.lovely",
+    "before": "ゆい ୨୧\n好きなステージと現場の記録 🫧 同じ趣味の方とお話できたらうれしいです ファンアカウントです",
+    "after": "୨୧ ゆい ୨୧ ୨୧\n♡ 好きなステージと現場の記録 🫧\n同じ趣味の方とお話できたらうれしいです\nファンアカウントです\n(˶ᵔ ᵕ ᵔ˶)"
+  },
+  {
+    "id": "travel",
+    "title": "週末旅",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.travel",
+    "before": "さき｜週末のおでかけ\n電車で行ける、小さな旅 喫茶店・温泉・街歩き 行き方や寄り道もまとめています",
+    "after": "さき｜週末のおでかけ ↟\n↟ 電車で行ける、小さな旅\n⌁ 喫茶店・温泉・街歩き\n行き方や寄り道もまとめています\n── ⌁ ──"
+  },
+  {
+    "id": "photographer",
+    "title": "写真・撮影依頼",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.photographer",
+    "before": "そう｜出張フォトグラファー\n家族写真・プロフィール撮影 東京を中心に出張しています 作例・撮影のご相談はこちら ↓",
+    "after": "そう｜出張フォトグラファー ✦\n✦ 家族写真・プロフィール撮影\n▫ 東京を中心に出張しています\n↳ 作例・撮影のご相談はこちら ↓\n─ ◇ ─"
+  },
+  {
+    "id": "shop",
+    "title": "ハンドメイド",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.shop",
+    "before": "こもれび｜布小物\n暮らしになじむ、手作りの布小物 新作や制作の様子を載せています ご購入・発送についてはショップへ ↓",
+    "after": "ꕤ こもれび｜布小物\nꕤ 暮らしになじむ、手作りの布小物\n新作や制作の様子を載せています\n↳ ご購入・発送についてはショップへ ↓\n─ ꕤ ─"
+  },
+  {
+    "id": "local-business",
+    "title": "ネイルサロン",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.local.business",
+    "before": "nagi nail｜吉祥寺\n日常に合わせやすいシンプルネイル 完全予約制 メニュー・空き状況・ご予約はこちら ↓",
+    "after": "nagi nail｜吉祥寺 ⌂\n▫ 日常に合わせやすいシンプルネイル\n▫ 完全予約制\n↳ メニュー・空き状況・ご予約はこちら ↓\n─ · ─"
+  },
+  {
+    "id": "business",
+    "title": "イラスト・お仕事",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.business",
+    "before": "しおり｜イラストレーター\n食べものと暮らしのイラスト 制作実績を載せています お仕事のご相談はリンク先へ ↓",
+    "after": "しおり｜イラストレーター ✦\n✦ 食べものと暮らしのイラスト\n▫ 制作実績を載せています\n↳ お仕事のご相談はリンク先へ ↓\n─ ◇ ─"
+  },
+  {
+    "id": "pets",
+    "title": "手帳・文房具",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.pets",
+    "before": "あお｜手帳と文房具\n手帳と文房具の記録 ✎ 書くこと、集めることが好きです お気に入りを少しずつ紹介します",
+    "after": "♡ あお｜手帳と文房具 ♡\n♡ 手帳と文房具の記録 ✎\n書くこと、集めることが好きです\nお気に入りを少しずつ紹介します\n୨୧ ─ ୨୧"
+  },
+  {
+    "id": "student",
+    "title": "学生・キャンパスライフ",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.student",
+    "before": "りん｜大学生活の記録\n授業とサークル、ときどきカフェ 勉強のことも、休日のことも 📚 マイペースに更新しています",
+    "after": "りん｜大学生活の記録 ✎\n✎ 授業とサークル、ときどきカフェ\n▫ 勉強のことも、休日のことも 📚\nマイペースに更新しています\n─ ✧ ─"
+  },
+  {
+    "id": "beauty",
+    "title": "美容・コスメ発信",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.beauty",
+    "before": "まい｜コスメとメイク\n混合肌｜毎日のメイクと使い心地の記録 色味や使用感を写真で紹介しています PR・提供品は投稿に明記 お仕事のご相談はリンク先へ ↓",
+    "after": "୨୧ まい｜コスメとメイク\n✧ 混合肌｜毎日のメイクと使い心地の記録\n色味や使用感を写真で紹介しています\nPR・提供品は投稿に明記\nお仕事のご相談はリンク先へ ↓\n─ ♡ ─"
+  },
+  {
+    "id": "company",
+    "title": "企業公式アカウント",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.company",
+    "before": "こはるデザイン｜公式\nお店やブランドのデザインをお手伝いします 制作実績・スタッフのこと・日々の取り組み サービスのご案内・お問い合わせはこちら ↓",
+    "after": "こはるデザイン｜公式 ▪\n▪ お店やブランドのデザインをお手伝いします\n▫ 制作実績・スタッフのこと・日々の取り組み\n↳ サービスのご案内・お問い合わせはこちら ↓\n─ ▪ ─"
+  },
+  {
+    "id": "cafe",
+    "title": "카페·사진 기록",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.cafe",
+    "before": "민지 | 카페와 필름\n☕ 서울 카페와 필름 사진 좋았던 공간을 천천히 모아요 위치는 게시물에 남겨둘게요",
+    "after": "민지 | 카페와 필름 ☕\n📍 ☕ 서울 카페와 필름 사진\n✧ 좋았던 공간을 천천히 모아요\n↳ 위치는 게시물에 남겨둘게요\n⋆ ─ ☕ ─ ⋆"
+  },
+  {
+    "id": "daily",
+    "title": "일상·미니멀",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.daily",
+    "before": "서연\n산책하고, 읽고, 가끔 여행해요 오래 기억하고 싶은 날들",
+    "after": "˗ˋˏ 서연 ˎˊ˗\n🌿 산책하고, 읽고, 가끔 여행해요\n⋆ 오래 기억하고 싶은 날들\n─ ･ ｡ﾟ☆ ─"
+  },
+  {
+    "id": "y2k",
+    "title": "패션·스트릿",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.y2k",
+    "before": "MINA ✦\n오늘 입은 옷, 요즘 듣는 음악 빈티지와 오래된 운동화 수집 중 착장 정보는 게시물에",
+    "after": "★ MINA ✦\n🪩 오늘 입은 옷, 요즘 듣는 음악\n★ 빈티지와 오래된 운동화 수집 중\n↳ 착장 정보는 게시물에\n⋆｡°✩ ──"
+  },
+  {
+    "id": "lovely",
+    "title": "덕질·팬 기록",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.lovely",
+    "before": "유나 ୨୧\n좋아하는 무대와 공연의 기록 같이 이야기할 분들 환영해요 ♡ 팬 계정 · 공식 계정 아님",
+    "after": "♡ 유나 ୨୧ ♡\n🎤 좋아하는 무대와 공연의 기록\n(｡•̀ᴗ-)✧ 같이 이야기할 분들 환영해요 ♡\n팬 계정 · 공식 계정 아님\n୨୧ ┈┈ ୨୧"
+  },
+  {
+    "id": "travel",
+    "title": "여행·주말 기록",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.travel",
+    "before": "지수 | 주말 여행\n가까운 곳부터 하나씩 뚜벅이 여행 · 숙소 · 동네 산책 다녀온 코스는 게시물에 정리해요",
+    "after": "지수 | 주말 여행 🧳\n🗺️ 가까운 곳부터 하나씩\n⌁ 뚜벅이 여행 · 숙소 · 동네 산책\n↳ 다녀온 코스는 게시물에 정리해요\n── ✈ ──"
+  },
+  {
+    "id": "photographer",
+    "title": "사진가·작업 의뢰",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.photographer",
+    "before": "도윤 | 인물 사진\n자연스러운 표정과 빛을 담아요 서울 · 프로필 / 커플 스냅 촬영 문의는 아래 링크로",
+    "after": "도윤 | 인물 사진 📷\n✦ 자연스러운 표정과 빛을 담아요\n📍 서울 · 프로필 / 커플 스냅\n↳ 촬영 문의는 아래 링크로\n─ ◇ ─"
+  },
+  {
+    "id": "shop",
+    "title": "동네 카페",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.shop",
+    "before": "모퉁이 커피 | 연남동\n커피와 직접 굽는 작은 과자 수–일 11:00–19:00 · 월·화 휴무 오시는 길과 메뉴는 아래 링크",
+    "after": "ꕤ 모퉁이 커피 | 연남동\n☕ 커피와 직접 굽는 작은 과자\n🕒 수–일 11:00–19:00 · 월·화 휴무\n↳ 오시는 길과 메뉴는 아래 링크\n⋆ ┈ ꕤ ┈ ⋆"
+  },
+  {
+    "id": "local-business",
+    "title": "공방·클래스",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.local.business",
+    "before": "온유공방 | 도자기\n손으로 빚는 나만의 그릇 처음 오시는 분도 함께할 수 있어요 수업 일정·예약은 아래 링크",
+    "after": "온유공방 | 도자기 🏺\n✦ 손으로 빚는 나만의 그릇\n🌱 처음 오시는 분도 함께할 수 있어요\n↳ 수업 일정·예약은 아래 링크\n─ ✧ ─"
+  },
+  {
+    "id": "pets",
+    "title": "반려동물",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.pets",
+    "before": "보리의 산책일지 🐾\n산책이 제일 좋은 강아지 보리 동네 한 바퀴와 주말 나들이 사진은 집사가 올려요",
+    "after": "보리의 산책일지 🐾 🐾\n🐶 산책이 제일 좋은 강아지 보리\n🌳 동네 한 바퀴와 주말 나들이\n♡ 사진은 집사가 올려요\nʕ•ᴥ•ʔ ─ ♡"
+  },
+  {
+    "id": "student",
+    "title": "학생·캠퍼스 일상",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.student",
+    "before": "지민 | 캠퍼스 일상\n수업 끝나면 카페나 도서관 공부 기록 · 동아리 · 소소한 일상 전공도 취향도 알아가는 중 📚",
+    "after": "지민 | 캠퍼스 일상 📚\n✎ 수업 끝나면 카페나 도서관\n🎧 공부 기록 · 동아리 · 소소한 일상\n⋆ 전공도 취향도 알아가는 중 📚\n─ ✧ ─"
+  },
+  {
+    "id": "beauty",
+    "title": "뷰티 인플루언서",
+    "subtitle": "내 정보로 바꿔 쓸 수 있는 소개글",
+    "handle": "sample.beauty",
+    "before": "소윤 | 메이크업·뷰티 리뷰\n직접 써본 화장품과 데일리 메이크업 피부 타입: 복합성 · 제품별 사용감 기록 광고·협찬 여부는 게시물에 표시해요 협업 문의는 아래 메일로 ↓",
+    "after": "୨୧ 소윤 | 메이크업·뷰티 리뷰\n💄 직접 써본 화장품과 데일리 메이크업\n🫧 피부 타입: 복합성 · 제품별 사용감 기록\n▫ 광고·협찬 여부는 게시물에 표시해요\n↳ 협업 문의는 아래 메일로 ↓\n─ ♡ ─"
+  },
+  {
+    "id": "cafe",
+    "title": "Cafés & film",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.cafe",
+    "before": "Mia | cafés & film\nCoffee stops, city walks, a roll of film. London, mostly. Locations in the captions ↓",
+    "after": "𝑀𝑖𝑎 | cafés & film ☕\n☕ Coffee stops, city walks, a roll of film.\n📍 London, mostly.\n↳ Locations in the captions ↓\n· · ✦ · ·"
+  },
+  {
+    "id": "daily",
+    "title": "Everyday / minimal",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.daily",
+    "before": "Ellie\nUsually reading, walking, or making coffee. A few things I want to remember.",
+    "after": "𝖤𝗅𝗅𝗂𝖾 🌿\n🌱 Usually reading, walking, or making coffee.\nA few things I want to remember.\n— little things —"
+  },
+  {
+    "id": "y2k",
+    "title": "Personal style",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.y2k",
+    "before": "JULES ✦\nRepeat outfits. Secondhand finds. Good shoes, loud playlists. Outfit details in each post.",
+    "after": "𝕵𝖀𝕷𝕰𝕾 ✦ ✷\n🧷 Repeat outfits. Secondhand finds.\n🎧 Good shoes, loud playlists.\n↳ Outfit details in each post.\n✷ ━ ✷"
+  },
+  {
+    "id": "lovely",
+    "title": "Fan account",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.lovely",
+    "before": "Alex | live music diary\nGig photos & setlist memories ♡ Always up for talking music. Fan account · not affiliated.",
+    "after": "𝒜𝓁ℯ𝓍 | live music diary ♫\n🎟️ Gig photos & setlist memories ♡\n♡ Always up for talking music.\nFan account · not affiliated.\n✩ · ♫ · ✩"
+  },
+  {
+    "id": "travel",
+    "title": "Weekend travel",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.travel",
+    "before": "Sam | weekends away\nShort trips without the packed itinerary. Train rides, little towns, good food. Saved routes & stays ↓",
+    "after": "𝑆𝑎𝑚 | weekends away 🧭\n🧭 Short trips without the packed itinerary.\n🚆 Train rides, little towns, good food.\n↳ Saved routes & stays ↓\n· ─ ✈ ─ ·"
+  },
+  {
+    "id": "photographer",
+    "title": "Photographer",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.photographer",
+    "before": "Riley | portrait photographer\nRelaxed portraits, natural light. Based in Bristol · available to travel. Portfolio & booking enquiries ↓",
+    "after": "𝚁𝚒𝚕𝚎𝚢 | portrait photographer 📷\n📷 Relaxed portraits, natural light.\n📍 Based in Bristol · available to travel.\n↳ Portfolio & booking enquiries ↓\n— ✦ —"
+  },
+  {
+    "id": "shop",
+    "title": "Small shop",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.shop",
+    "before": "Field Notes Studio | ceramics\nSmall-batch pottery for everyday use. Made by hand in Portland. Shop & shipping details ↓",
+    "after": "ℱ𝒾ℯ𝓁𝒹 Notes Studio | ceramics ✿\n🏺 Small-batch pottery for everyday use.\n✿ Made by hand in Portland.\n↳ Shop & shipping details ↓\n· ✿ ·"
+  },
+  {
+    "id": "local-business",
+    "title": "Neighborhood café",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.local.business",
+    "before": "Sunday Counter | coffee & bakes\nYour neighborhood coffee stop. Tue–Sun, 8am–3pm · closed Mondays Menu & directions ↓",
+    "after": "𝗦𝘂𝗻𝗱𝗮𝘆 Counter | coffee & bakes ☕\n☕ Your neighborhood coffee stop.\n🕒 Tue–Sun, 8am–3pm · closed Mondays\n↳ Menu & directions ↓\n— ☕ —"
+  },
+  {
+    "id": "business",
+    "title": "Freelance designer",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.business",
+    "before": "Jamie | brand designer\nThoughtful identities for small businesses. Branding · packaging · print Selected work & project enquiries ↓",
+    "after": "𝗝𝗮𝗺𝗶𝗲 | brand designer ↗\n✦ Thoughtful identities for small businesses.\n▫ Branding · packaging · print\n↳ Selected work & project enquiries ↓\n— ◇ —"
+  },
+  {
+    "id": "pets",
+    "title": "Pets",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.pets",
+    "before": "Milo & his human 🐾\nProfessional stick collector. Walks, naps, repeat. Managed by the one holding the treats.",
+    "after": "𝖬𝗂𝗅𝗈 & his human 🐾 🐾\n🐕 Professional stick collector.\n🐾 Walks, naps, repeat.\n♡ Managed by the one holding the treats.\n· 🦴 ·"
+  },
+  {
+    "id": "student",
+    "title": "Student / campus life",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.student",
+    "before": "Casey | campus days\nLectures, library breaks & life in between. Study notes, club days, weekend plans 📚",
+    "after": "𝙲𝚊𝚜𝚎𝚢 | campus days ✎\n📚 Lectures, library breaks & life in between.\n🎧 Study notes, club days, weekend plans 📚\n✎ · · ·"
+  },
+  {
+    "id": "beauty",
+    "title": "Beauty creator",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.beauty",
+    "before": "Maya | makeup & beauty\nEveryday makeup & products I actually use. Combination skin · wear tests & routines Ads & gifted products disclosed in posts. Collabs ↓",
+    "after": "ℳ𝒶𝓎𝒶 | makeup & beauty ✧\n💄 Everyday makeup & products I actually use.\n🫧 Combination skin · wear tests & routines\nAds & gifted products disclosed in posts.\nCollabs ↓\n· ♡ ·"
+  },
+  {
+    "id": "company",
+    "title": "Company account",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.company",
+    "before": "Northline Studio | Official\nBrand design for growing businesses. Our work, team updates & behind the scenes. Services & enquiries on our website ↓",
+    "after": "𝗡𝗼𝗿𝘁𝗵𝗹𝗶𝗻𝗲 Studio | Official ▪\n▪ Brand design for growing businesses.\n▫ Our work, team updates & behind the scenes.\n↳ Services & enquiries on our website ↓\n— ▪ —"
+  },
+  {
+    "id": "cafe",
+    "title": "カフェ巡り",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.cafe",
+    "before": "はる｜東京カフェ\n週末は気になるカフェへ ☕ コーヒーと焼き菓子が好きです お店の情報は投稿にまとめています",
+    "after": "꒰ はる｜東京カフェ ꒱\n週末は気になるカフェへ ☕\n🍪 コーヒーと焼き菓子が好きです\n↳ お店の情報は投稿にまとめています\n┈┈ 𖠚 ┈┈"
+  },
+  {
+    "id": "daily",
+    "title": "日常・暮らし",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.daily",
+    "before": "なつ\n本と散歩、ときどき喫茶店 何気ない日々の記録 気ままに更新しています",
+    "after": "⌜ なつ ⌟\n📖 本と散歩、ときどき喫茶店\n𓂃 何気ない日々の記録\n気ままに更新しています\n( ˘͈ ᵕ ˘͈ )"
+  },
+  {
+    "id": "y2k",
+    "title": "古着・コーデ",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.y2k",
+    "before": "mio｜古着と日々の服\n古着多めの着回し記録 スニーカーと音楽が好きです 着用アイテムは投稿に載せています",
+    "after": "mio｜古着と日々の服 ⟡\n🧷 古着多めの着回し記録\n🎧 スニーカーと音楽が好きです\n⌁ 着用アイテムは投稿に載せています\n⋆⸜ ─ ⸝⋆"
+  },
+  {
+    "id": "lovely",
+    "title": "推し活",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.lovely",
+    "before": "ゆい ୨୧\n好きなステージと現場の記録 🫧 同じ趣味の方とお話できたらうれしいです ファンアカウントです",
+    "after": "୨୧ ゆい ୨୧ ୨୧\n🎀 好きなステージと現場の記録 🫧\n(ᐡᴗ ̫ ᴗᐡ) 同じ趣味の方とお話できたらうれしいです\nファンアカウントです\n♡ ┈┈ ໒꒱"
+  },
+  {
+    "id": "travel",
+    "title": "週末旅",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.travel",
+    "before": "さき｜週末のおでかけ\n電車で行ける、小さな旅 喫茶店・温泉・街歩き 行き方や寄り道もまとめています",
+    "after": "さき｜週末のおでかけ 🕊️\n🚃 電車で行ける、小さな旅\n♨️ 喫茶店・温泉・街歩き\n↳ 行き方や寄り道もまとめています\n𓂃 ✈︎ 𓂃"
+  },
+  {
+    "id": "photographer",
+    "title": "写真・撮影依頼",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.photographer",
+    "before": "そう｜出張フォトグラファー\n家族写真・プロフィール撮影 東京を中心に出張しています 作例・撮影のご相談はこちら ↓",
+    "after": "そう｜出張フォトグラファー 𓆸\n📷 家族写真・プロフィール撮影\n⌂ 東京を中心に出張しています\n↳ 作例・撮影のご相談はこちら ↓\n─ 𖧷 ─"
+  },
+  {
+    "id": "shop",
+    "title": "ハンドメイド",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.shop",
+    "before": "こもれび｜布小物\n暮らしになじむ、手作りの布小物 新作や制作の様子を載せています ご購入・発送についてはショップへ ↓",
+    "after": "こもれび｜布小物 🧵\n🧵 暮らしになじむ、手作りの布小物\nꕤ 新作や制作の様子を載せています\n↳ ご購入・発送についてはショップへ ↓\n┈ ꕤ ┈"
+  },
+  {
+    "id": "local-business",
+    "title": "ネイルサロン",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.local.business",
+    "before": "nagi nail｜吉祥寺\n日常に合わせやすいシンプルネイル 完全予約制 メニュー・空き状況・ご予約はこちら ↓",
+    "after": "୨୧ nagi nail｜吉祥寺\n💅 日常に合わせやすいシンプルネイル\n𓂃 完全予約制\n↳ メニュー・空き状況・ご予約はこちら ↓\n୨୧ ┈ ୨୧"
+  },
+  {
+    "id": "business",
+    "title": "イラスト・お仕事",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.business",
+    "before": "しおり｜イラストレーター\n食べものと暮らしのイラスト 制作実績を載せています お仕事のご相談はリンク先へ ↓",
+    "after": "しおり｜イラストレーター ✎\n🎨 食べものと暮らしのイラスト\n⌁ 制作実績を載せています\n↳ お仕事のご相談はリンク先へ ↓\n─ ✎ ─"
+  },
+  {
+    "id": "pets",
+    "title": "手帳・文房具",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.pets",
+    "before": "あお｜手帳と文房具\n手帳と文房具の記録 ✎ 書くこと、集めることが好きです お気に入りを少しずつ紹介します",
+    "after": "あお｜手帳と文房具 ✎\n📔 手帳と文房具の記録 ✎\n✎ 書くこと、集めることが好きです\nꕤ お気に入りを少しずつ紹介します\n⋆ ┈ 𖤣 ┈ ⋆"
+  },
+  {
+    "id": "student",
+    "title": "学生・キャンパスライフ",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.student",
+    "before": "りん｜大学生活の記録\n授業とサークル、ときどきカフェ 勉強のことも、休日のことも 📚 マイペースに更新しています",
+    "after": "りん｜大学生活の記録 𖧷\n🎓 授業とサークル、ときどきカフェ\n勉強のことも、休日のことも 📚\n𓂃 マイペースに更新しています\n(｡•̀ᴗ-)✧"
+  },
+  {
+    "id": "beauty",
+    "title": "美容・コスメ発信",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.beauty",
+    "before": "まい｜コスメとメイク\n混合肌｜毎日のメイクと使い心地の記録 色味や使用感を写真で紹介しています PR・提供品は投稿に明記 お仕事のご相談はリンク先へ ↓",
+    "after": "꒰ まい｜コスメとメイク ꒱\n🫧 混合肌｜毎日のメイクと使い心地の記録\n💄 色味や使用感を写真で紹介しています\n▫ PR・提供品は投稿に明記\n↳ お仕事のご相談はリンク先へ ↓\n♡ ┈ ୨୧"
+  },
+  {
+    "id": "company",
+    "title": "企業公式アカウント",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.company",
+    "before": "こはるデザイン｜公式\nお店やブランドのデザインをお手伝いします 制作実績・スタッフのこと・日々の取り組み サービスのご案内・お問い合わせはこちら ↓",
+    "after": "こはるデザイン｜公式 ▫\n▫ お店やブランドのデザインをお手伝いします\n▸ 制作実績・スタッフのこと・日々の取り組み\n↳ サービスのご案内・お問い合わせはこちら ↓\n┈ ▫ ┈"
+  },
+  {
+    "id": "cafe",
+    "title": "Cafés & film",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.cafe",
+    "before": "Lana Kim | cafés & film\nCoffee stops, city walks, a roll of film. London, mostly. Locations in the captions ↓",
+    "after": "𝐿𝑎𝑛𝑎 Kim | cafés & film ☕\n☕ Coffee stops, city walks, a roll of film.\n📍 London, mostly.\n↳ Locations in the captions ↓\n· · ✦ · ·"
+  },
+  {
+    "id": "daily",
+    "title": "Everyday / minimal",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.daily",
+    "before": "Seoyeon\nUsually reading, walking, or making coffee. A few things I want to remember.",
+    "after": "𝖲𝖾𝗈𝗒𝖾𝗈𝗇 🌿\n🌱 Usually reading, walking, or making coffee.\nA few things I want to remember.\n— little things —"
+  },
+  {
+    "id": "y2k",
+    "title": "Personal style",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.y2k",
+    "before": "Kim Juwon ✦\nRepeat outfits. Secondhand finds. Good shoes, loud playlists. Outfit details in each post.",
+    "after": "𝕶𝖎𝖒 Juwon ✦ ✷\n🧷 Repeat outfits. Secondhand finds.\n🎧 Good shoes, loud playlists.\n↳ Outfit details in each post.\n✷ ━ ✷"
+  },
+  {
+    "id": "lovely",
+    "title": "Fan account",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.lovely",
+    "before": "Yuju | live music diary\nGig photos & setlist memories ♡ Always up for talking music. Fan account · not affiliated.",
+    "after": "𝒴𝓊𝒿𝓊 | live music diary ♫\n🎟️ Gig photos & setlist memories ♡\n♡ Always up for talking music.\nFan account · not affiliated.\n✩ · ♫ · ✩"
+  },
+  {
+    "id": "travel",
+    "title": "Weekend travel",
+    "subtitle": "A bio to customize with your own details",
+    "handle": "sample.travel",
+    "before": "Jisoo | weekends away\nShort trips without the packed itinerary. Train rides, little towns, good food. Saved routes & stays ↓",
+    "after": "𝐽𝑖𝑠𝑜𝑜 | weekends away 🧭\n🧭 Short trips without the packed itinerary.\n🚆 Train rides, little towns, good food.\n↳ Saved routes & stays ↓\n· ─ ✈ ─ ·"
+  },
+  {
+    "id": "cafe",
+    "title": "カフェ巡り",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.cafe",
+    "before": "ラナ・キム｜東京カフェ\n週末は気になるカフェへ ☕ コーヒーと焼き菓子が好きです お店の情報は投稿にまとめています",
+    "after": "꒰ ラナ・キム｜東京カフェ ꒱\n週末は気になるカフェへ ☕\n🍪 コーヒーと焼き菓子が好きです\n↳ お店の情報は投稿にまとめています\n┈┈ 𖠚 ┈┈"
+  },
+  {
+    "id": "daily",
+    "title": "日常・暮らし",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.daily",
+    "before": "ソヨン\n本と散歩、ときどき喫茶店 何気ない日々の記録 気ままに更新しています",
+    "after": "⌜ ソヨン ⌟\n📖 本と散歩、ときどき喫茶店\n𓂃 何気ない日々の記録\n気ままに更新しています\n( ˘͈ ᵕ ˘͈ )"
+  },
+  {
+    "id": "y2k",
+    "title": "古着・コーデ",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.y2k",
+    "before": "キム・ジュウォン｜古着と日々の服\n古着多めの着回し記録 スニーカーと音楽が好きです 着用アイテムは投稿に載せています",
+    "after": "キム・ジュウォン｜古着と日々の服 ⟡\n🧷 古着多めの着回し記録\n🎧 スニーカーと音楽が好きです\n⌁ 着用アイテムは投稿に載せています\n⋆⸜ ─ ⸝⋆"
+  },
+  {
+    "id": "lovely",
+    "title": "推し活",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.lovely",
+    "before": "ユジュ ୨୧\n好きなステージと現場の記録 🫧 同じ趣味の方とお話できたらうれしいです ファンアカウントです",
+    "after": "୨୧ ユジュ ୨୧ ୨୧\n🎀 好きなステージと現場の記録 🫧\n(ᐡᴗ ̫ ᴗᐡ) 同じ趣味の方とお話できたらうれしいです\nファンアカウントです\n♡ ┈┈ ໒꒱"
+  },
+  {
+    "id": "travel",
+    "title": "週末旅",
+    "subtitle": "自分の情報に書き換えて使えます",
+    "handle": "sample.travel",
+    "before": "ジス｜週末のおでかけ\n電車で行ける、小さな旅 喫茶店・温泉・街歩き 行き方や寄り道もまとめています",
+    "after": "ジス｜週末のおでかけ 🕊️\n🚃 電車で行ける、小さな旅\n♨️ 喫茶店・温泉・街歩き\n↳ 行き方や寄り道もまとめています\n𓂃 ✈︎ 𓂃"
+  }
+]

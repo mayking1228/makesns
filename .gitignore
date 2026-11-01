@@ -1,0 +1,22 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+.env*
+.DS_Store
+
+# Short-link runtime data stays outside the source tree
+*.sqlite
+*.sqlite-*
+*.sqlite3
+ip-salt
+
+# Runtime logs and deployment backups
+*.log
+*.db
+*.db-*
+*.dump
+*.backup
+*.tar.gz
+__pycache__/
+*.pyc

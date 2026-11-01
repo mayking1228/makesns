@@ -1,0 +1,12 @@
+'use client';
+import {ui} from '@/lib/ui';
+
+import {useEffect,useState} from 'react';import {usePathname} from 'next/navigation';import Link from 'next/link';import {Cookie} from 'lucide-react';import {startAnalytics,stopAnalytics,storedAnalyticsChoice,saveAnalyticsChoice} from '@/lib/analytics-client';import type {Lang} from '@/lib/site';
+import {analyticsPreferenceKey,type AnalyticsChoice} from '@/lib/analytics-policy';
+export function AnalyticsConsent({lang='en'}:{lang?:Lang}){const pathname=usePathname(),[choice,setChoice]=useState<AnalyticsChoice|null|'loading'>('loading'),[open,setOpen]=useState(false);
+ useEffect(()=>{setChoice(storedAnalyticsChoice());const sync=(event:StorageEvent)=>{if(event.key!==analyticsPreferenceKey)return;const value=storedAnalyticsChoice();if(value!=='accepted'&&stopAnalytics()){window.location.reload();return;}setChoice(value);};window.addEventListener('storage',sync);return()=>window.removeEventListener('storage',sync);},[]);
+ useEffect(()=>{if(choice==='accepted')startAnalytics(pathname,choice);},[choice,pathname]);
+ function choose(value:AnalyticsChoice){saveAnalyticsChoice(value);setChoice(value);setOpen(false);if(value==='declined'&&stopAnalytics())window.location.reload();}
+ const show=choice!=='loading'&&(choice===null||open);
+ return <>{choice!=='loading'&&!show&&<button type="button" className="analytics-preferences" onClick={()=>setOpen(true)} aria-label={ui(lang,'분석 쿠키 설정','Analytics cookie settings')}><Cookie size={15}/>{ui(lang,'쿠키 설정','Cookie settings')}</button>}{show&&<section className="analytics-consent" role="region" aria-label={ui(lang,'분석 쿠키 선택','Analytics cookie choice')}><div><h2>{ui(lang,'더 좋은 도구를 만들 수 있도록','Help us make better little tools')}</h2><p>{ui(lang,'동의하시면 Google Analytics 쿠키로 방문·도구 사용 횟수를 측정해요. 입력 문구·이미지·파일명은 보내지 않아요. 거부해도 모든 도구를 사용할 수 있어요.','With your permission, Google Analytics cookies help count visits and tool use. Your text, images and file names are never sent. Every tool works if you decline.')} <Link href={`/${lang}/privacy/`}>{ui(lang,'자세히 보기','Learn more')}</Link></p></div><div className="analytics-consent-actions"><button type="button" className="button" onClick={()=>choose('declined')}>{ui(lang,'분석 거부','Decline analytics')}</button><button type="button" className="button primary" onClick={()=>choose('accepted')}>{ui(lang,'분석 동의','Allow analytics')}</button></div></section>}</>;
+}

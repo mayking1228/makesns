@@ -1,0 +1,8 @@
+import {withLocales} from './locale-data';
+import type {Lang} from './site';
+import {captionSpace} from './text';
+export const captionExampleIds=['daily','cafe','announcement'] as const;
+const captionText:Record<Lang,string[]>=withLocales({ko:[`오늘의 작은 기록 ☕\n\n서두르지 않고, 좋아하는 것들을 하나씩 모으는 중.\n\n#일상 #기록 #작은행복`,`골목 끝에서 만난 카페\n\n따뜻한 라테와 창가 자리.\n다음에는 책 한 권을 가져와야겠어요.\n\n📍 서울의 어느 골목\n\n#카페기록 #주말산책`,`작은 전시 안내\n\n11월 14일 토요일 · 오후 1시–6시\n서울 · 예시 스튜디오\n\n예약 방법과 자세한 내용은 프로필 링크에서 확인해주세요.\n\n#전시안내 #주말일정`],en:[`A small note from today ☕\n\nTaking it slowly and collecting little things I love.\n\n#everyday #dailyjournal #littlejoys`,`A café at the end of the street\n\nA warm latte and a seat by the window.\nNext time, I am bringing a book.\n\n📍 Somewhere in Seoul\n\n#cafediary #weekendwalk`,`A small exhibition\n\nSaturday, November 14 · 1–6 pm\nSeoul · Example Studio\n\nFind booking details and more information at the link in our bio.\n\n#exhibition #weekendplans`],ja:[`今日の小さな記録 ☕\n\n急がずに、好きなものを少しずつ集めています。\n\n#日常 #暮らしの記録 #小さな幸せ`,`路地の先で見つけたカフェ\n\nあたたかいラテと、窓際の席。\n次は本を一冊、持ってこよう。\n\n📍 東京のとある路地\n\n#カフェ巡り #週末散歩`,`小さな展示のお知らせ\n\n11月14日（土）13:00〜18:00\n東京・サンプルスタジオ\n\n予約方法や詳しい内容は、プロフィールのリンクからご確認ください。\n\n#展示のお知らせ #週末の予定`]});
+const sampleNames:Record<Lang,string[]>=withLocales({ko:['일상 기록','카페 후기','행사 안내'],en:['Everyday journal','Café diary','An announcement'],ja:['日常の記録','カフェの感想','お知らせ']});
+export function captionExamples(lang:Lang){return captionExampleIds.map((id,i)=>({id,title:sampleNames[lang][i],before:captionText[lang][i].replace(/\n+/g,' '),after:captionText[lang][i],copyText:captionSpace(captionText[lang][i])}));}
+export function captionExampleFromHash(hash:string,lang:Lang){return captionExamples(lang).find(e=>'#example-'+e.id===hash)??null;}

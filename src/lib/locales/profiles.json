@@ -1,0 +1,532 @@
+{
+  "es": [
+    {
+      "id": "cafe",
+      "title": "Cafés y fotos",
+      "subtitle": "Una bio para adaptar a tus datos",
+      "handle": "sample.cafe",
+      "before": "Lana · cafés y fotos\nCafés de barrio y fotos con calma Madrid, casi siempre Guardo los sitios en cada publicación",
+      "after": "Lana · cafés y fotos\nCafés de barrio y fotos con calma\nMadrid, casi siempre\nGuardo los sitios en cada publicación"
+    },
+    {
+      "id": "daily",
+      "title": "Día a día",
+      "subtitle": "Una bio para adaptar a tus datos",
+      "handle": "sample.daily",
+      "before": "Lucía\nPaseos, libros y café sin prisa Un diario de las cosas que quiero recordar",
+      "after": "Lucía\nPaseos, libros y café sin prisa\nUn diario de las cosas que quiero recordar"
+    },
+    {
+      "id": "y2k",
+      "title": "Moda y segunda mano",
+      "subtitle": "Una bio para adaptar a tus datos",
+      "handle": "sample.y2k",
+      "before": "Alex · mi armario\nRepito looks y busco prendas con historia Zapatillas, música y segunda mano Detalles de cada look en el post",
+      "after": "Alex · mi armario\nRepito looks y busco prendas con historia\nZapatillas, música y segunda mano\nDetalles de cada look en el post"
+    },
+    {
+      "id": "lovely",
+      "title": "Cuenta de fans",
+      "subtitle": "Una bio para adaptar a tus datos",
+      "handle": "sample.lovely",
+      "before": "Clara · entre conciertos\nFotos de conciertos y canciones favoritas Si también te gusta, hablamos ♡ Cuenta de fans, no oficial",
+      "after": "Clara · entre conciertos\nFotos de conciertos y canciones favoritas\nSi también te gusta, hablamos ♡\nCuenta de fans, no oficial"
+    },
+    {
+      "id": "travel",
+      "title": "Escapadas de finde",
+      "subtitle": "Una bio para adaptar a tus datos",
+      "handle": "sample.travel",
+      "before": "Alba · escapadas\nPueblos, trenes y planes sin prisas Salgo de Valencia cuando puedo Rutas y alojamientos en el enlace",
+      "after": "Alba · escapadas\nPueblos, trenes y planes sin prisas\nSalgo de Valencia cuando puedo\nRutas y alojamientos en el enlace"
+    },
+    {
+      "id": "photographer",
+      "title": "Fotografía",
+      "subtitle": "Una bio para adaptar a tus datos",
+      "handle": "sample.photographer",
+      "before": "Diego · retratos\nRetratos con luz natural Barcelona y alrededores Porfolio y consultas en el enlace",
+      "after": "Diego · retratos\nRetratos con luz natural\nBarcelona y alrededores\nPorfolio y consultas en el enlace"
+    },
+    {
+      "id": "shop",
+      "title": "Tienda y artesanía",
+      "subtitle": "Una bio para adaptar a tus datos",
+      "handle": "sample.shop",
+      "before": "Taller Luna · cerámica\nPiezas hechas a mano para el día a día Desde Málaga Pedidos y envíos en el enlace",
+      "after": "Taller Luna · cerámica\nPiezas hechas a mano para el día a día\nDesde Málaga\nPedidos y envíos en el enlace"
+    },
+    {
+      "id": "local-business",
+      "title": "Cafetería de barrio",
+      "subtitle": "Una bio para adaptar a tus datos",
+      "handle": "sample.local.business",
+      "before": "Café de la Esquina\nCafé y bizcocho en nuestro barrio Mar–dom, 9–18 h · lunes cerrado Carta y dirección en el enlace",
+      "after": "Café de la Esquina\nCafé y bizcocho en nuestro barrio\nMar–dom, 9–18 h · lunes cerrado\nCarta y dirección en el enlace"
+    },
+    {
+      "id": "business",
+      "title": "Diseño freelance",
+      "subtitle": "Una bio para adaptar a tus datos",
+      "handle": "sample.business",
+      "before": "Marina · diseño de marca\nIdentidad visual para pequeños negocios Marcas, envases y diseño editorial Proyectos y consultas en el enlace",
+      "after": "Marina · diseño de marca\nIdentidad visual para pequeños negocios\nMarcas, envases y diseño editorial\nProyectos y consultas en el enlace"
+    },
+    {
+      "id": "pets",
+      "title": "Mascotas",
+      "subtitle": "Una bio para adaptar a tus datos",
+      "handle": "sample.pets",
+      "before": "Nala y su humana 🐾\nSiestas, paseos y algún calcetín robado La cuenta la lleva quien guarda los premios",
+      "after": "Nala y su humana 🐾\nSiestas, paseos y algún calcetín robado\nLa cuenta la lleva quien guarda los premios"
+    },
+    {
+      "id": "student",
+      "title": "Vida de estudiante",
+      "subtitle": "Una bio para adaptar a tus datos",
+      "handle": "sample.student",
+      "before": "Sofía · entre clases\nApuntes, biblioteca y planes de campus Estudiando a mi ritmo Un poco de lo que pasa entre clase y clase",
+      "after": "Sofía · entre clases\nApuntes, biblioteca y planes de campus\nEstudiando a mi ritmo\nUn poco de lo que pasa entre clase y clase"
+    },
+    {
+      "id": "beauty",
+      "title": "Belleza y maquillaje",
+      "subtitle": "Una bio para adaptar a tus datos",
+      "handle": "sample.beauty",
+      "before": "Vera · maquillaje real\nPiel mixta y maquillaje de diario Pruebo y cuento qué tal me va Publicidad y regalos indicados Colaboraciones ↓",
+      "after": "Vera · maquillaje real\nPiel mixta y maquillaje de diario\nPruebo y cuento qué tal me va\nPublicidad y regalos indicados\nColaboraciones ↓"
+    },
+    {
+      "id": "company",
+      "title": "Cuenta de empresa",
+      "subtitle": "Una bio para adaptar a tus datos",
+      "handle": "sample.company",
+      "before": "Estudio Brisa · oficial\nDiseño para marcas con ideas propias Proyectos, equipo y proceso creativo Servicios y contacto en la web",
+      "after": "Estudio Brisa · oficial\nDiseño para marcas con ideas propias\nProyectos, equipo y proceso creativo\nServicios y contacto en la web"
+    }
+  ],
+  "ms": [
+    {
+      "id": "cafe",
+      "title": "Kafe dan gambar",
+      "subtitle": "Bio untuk diubah mengikut maklumat anda",
+      "handle": "sample.cafe",
+      "before": "Lana · singgah kafe\nKafe kecil, kopi dan gambar kegemaran Sekitar Kuala Lumpur Lokasi ada pada setiap siaran",
+      "after": "Lana · singgah kafe\nKafe kecil, kopi dan gambar kegemaran\nSekitar Kuala Lumpur\nLokasi ada pada setiap siaran"
+    },
+    {
+      "id": "daily",
+      "title": "Catatan harian",
+      "subtitle": "Bio untuk diubah mengikut maklumat anda",
+      "handle": "sample.daily",
+      "before": "Nur · cerita kecil\nBuku, jalan-jalan dan kopi waktu petang Menyimpan kenangan yang sederhana",
+      "after": "Nur · cerita kecil\nBuku, jalan-jalan dan kopi waktu petang\nMenyimpan kenangan yang sederhana"
+    },
+    {
+      "id": "y2k",
+      "title": "Gaya dan pakaian",
+      "subtitle": "Bio untuk diubah mengikut maklumat anda",
+      "handle": "sample.y2k",
+      "before": "Aina · gaya harian\nPadan semula baju, cari gaya sendiri Pakaian preloved dan kasut kegemaran Butiran gaya dalam siaran",
+      "after": "Aina · gaya harian\nPadan semula baju, cari gaya sendiri\nPakaian preloved dan kasut kegemaran\nButiran gaya dalam siaran"
+    },
+    {
+      "id": "lovely",
+      "title": "Akaun peminat",
+      "subtitle": "Bio untuk diubah mengikut maklumat anda",
+      "handle": "sample.lovely",
+      "before": "Mira · catatan peminat\nKenangan persembahan dan lagu kegemaran Jom berkenalan sesama peminat ♡ Akaun peminat, bukan rasmi",
+      "after": "Mira · catatan peminat\nKenangan persembahan dan lagu kegemaran\nJom berkenalan sesama peminat ♡\nAkaun peminat, bukan rasmi"
+    },
+    {
+      "id": "travel",
+      "title": "Percutian hujung minggu",
+      "subtitle": "Bio untuk diubah mengikut maklumat anda",
+      "handle": "sample.travel",
+      "before": "Farah · jalan sekejap\nCari tempat baru bila ada masa Makan, singgah dan jalan-jalan Cadangan tempat pada pautan",
+      "after": "Farah · jalan sekejap\nCari tempat baru bila ada masa\nMakan, singgah dan jalan-jalan\nCadangan tempat pada pautan"
+    },
+    {
+      "id": "photographer",
+      "title": "Fotografi",
+      "subtitle": "Bio untuk diubah mengikut maklumat anda",
+      "handle": "sample.photographer",
+      "before": "Hakim · potret\nPotret santai dengan cahaya semula jadi Shah Alam dan sekitar Lembah Klang Portfolio dan tempahan pada pautan",
+      "after": "Hakim · potret\nPotret santai dengan cahaya semula jadi\nShah Alam dan sekitar Lembah Klang\nPortfolio dan tempahan pada pautan"
+    },
+    {
+      "id": "shop",
+      "title": "Kedai kecil",
+      "subtitle": "Bio untuk diubah mengikut maklumat anda",
+      "handle": "sample.shop",
+      "before": "Rona Kraf · buatan tangan\nHasil tangan untuk kegunaan harian Dibuat sedikit demi sedikit di Melaka Tempahan dan penghantaran ↓",
+      "after": "Rona Kraf · buatan tangan\nHasil tangan untuk kegunaan harian\nDibuat sedikit demi sedikit di Melaka\nTempahan dan penghantaran ↓"
+    },
+    {
+      "id": "local-business",
+      "title": "Kafe kejiranan",
+      "subtitle": "Bio untuk diubah mengikut maklumat anda",
+      "handle": "sample.local.business",
+      "before": "Kopi Ruang\nKopi dan kek untuk teman bercerita Sel–Ahd, 9 pagi–6 petang · tutup Isnin Menu dan lokasi pada pautan",
+      "after": "Kopi Ruang\nKopi dan kek untuk teman bercerita\nSel–Ahd, 9 pagi–6 petang · tutup Isnin\nMenu dan lokasi pada pautan"
+    },
+    {
+      "id": "business",
+      "title": "Pereka bebas",
+      "subtitle": "Bio untuk diubah mengikut maklumat anda",
+      "handle": "sample.business",
+      "before": "Amir · reka bentuk\nIdentiti visual untuk perniagaan kecil Penjenamaan, pembungkusan dan cetakan Portfolio dan pertanyaan ↓",
+      "after": "Amir · reka bentuk\nIdentiti visual untuk perniagaan kecil\nPenjenamaan, pembungkusan dan cetakan\nPortfolio dan pertanyaan ↓"
+    },
+    {
+      "id": "pets",
+      "title": "Haiwan peliharaan",
+      "subtitle": "Bio untuk diubah mengikut maklumat anda",
+      "handle": "sample.pets",
+      "before": "Oyen dan tuannya 🐾\nMakan, tidur, ulang lagi Catatan seekor kucing yang manja Diurus oleh penjaga bekas makan",
+      "after": "Oyen dan tuannya 🐾\nMakan, tidur, ulang lagi\nCatatan seekor kucing yang manja\nDiurus oleh penjaga bekas makan"
+    },
+    {
+      "id": "student",
+      "title": "Kehidupan kampus",
+      "subtitle": "Bio untuk diubah mengikut maklumat anda",
+      "handle": "sample.student",
+      "before": "Hana · hari di kampus\nKelas, perpustakaan dan aktiviti kolej Nota belajar dan rancangan hujung minggu Belajar ikut rentak sendiri",
+      "after": "Hana · hari di kampus\nKelas, perpustakaan dan aktiviti kolej\nNota belajar dan rancangan hujung minggu\nBelajar ikut rentak sendiri"
+    },
+    {
+      "id": "beauty",
+      "title": "Kecantikan dan solekan",
+      "subtitle": "Bio untuk diubah mengikut maklumat anda",
+      "handle": "sample.beauty",
+      "before": "Sya · solekan harian\nKulit kombinasi, rutin yang ringkas Ulasan produk yang saya cuba sendiri Iklan dan tajaan dinyatakan Kerjasama ↓",
+      "after": "Sya · solekan harian\nKulit kombinasi, rutin yang ringkas\nUlasan produk yang saya cuba sendiri\nIklan dan tajaan dinyatakan\nKerjasama ↓"
+    },
+    {
+      "id": "company",
+      "title": "Akaun rasmi syarikat",
+      "subtitle": "Bio untuk diubah mengikut maklumat anda",
+      "handle": "sample.company",
+      "before": "Studio Bayu · rasmi\nReka bentuk untuk jenama tempatan Hasil kerja, pasukan dan cerita kami Perkhidmatan dan pertanyaan di laman web",
+      "after": "Studio Bayu · rasmi\nReka bentuk untuk jenama tempatan\nHasil kerja, pasukan dan cerita kami\nPerkhidmatan dan pertanyaan di laman web"
+    }
+  ],
+  "pt-BR": [
+    {
+      "id": "cafe",
+      "title": "Cafés e fotos",
+      "subtitle": "Um modelo para adaptar com os seus dados",
+      "handle": "sample.cafe",
+      "before": "Lana · cafés e fotos\nCafé coado e fotos pelo caminho São Paulo, quase sempre Meus achados estão nos posts",
+      "after": "Lana · cafés e fotos\nCafé coado e fotos pelo caminho\nSão Paulo, quase sempre\nMeus achados estão nos posts"
+    },
+    {
+      "id": "daily",
+      "title": "Cotidiano sem pressa",
+      "subtitle": "Um modelo para adaptar com os seus dados",
+      "handle": "sample.daily",
+      "before": "Júlia\nLivros, plantas e um café passado Um pouco do que quero guardar",
+      "after": "Júlia\nLivros, plantas e um café passado\nUm pouco do que quero guardar"
+    },
+    {
+      "id": "y2k",
+      "title": "Looks e brechó",
+      "subtitle": "Um modelo para adaptar com os seus dados",
+      "handle": "sample.y2k",
+      "before": "Bia · meus looks\nBrechó, tênis e playlist boa Repetir roupa também é estilo Detalhes dos looks nos posts",
+      "after": "Bia · meus looks\nBrechó, tênis e playlist boa\nRepetir roupa também é estilo\nDetalhes dos looks nos posts"
+    },
+    {
+      "id": "lovely",
+      "title": "Conta de fã",
+      "subtitle": "Um modelo para adaptar com os seus dados",
+      "handle": "sample.lovely",
+      "before": "Clara · entre shows\nFotos de shows e músicas no repeat Bora conversar sobre o próximo show? Conta de fã, não oficial",
+      "after": "Clara · entre shows\nFotos de shows e músicas no repeat\nBora conversar sobre o próximo show?\nConta de fã, não oficial"
+    },
+    {
+      "id": "travel",
+      "title": "Viagens de fim de semana",
+      "subtitle": "Um modelo para adaptar com os seus dados",
+      "handle": "sample.travel",
+      "before": "Luana · de mochila\nTrilhas, cachoeiras e café na estrada Saindo de BH quando dá Roteiros no link",
+      "after": "Luana · de mochila\nTrilhas, cachoeiras e café na estrada\nSaindo de BH quando dá\nRoteiros no link"
+    },
+    {
+      "id": "photographer",
+      "title": "Fotografia",
+      "subtitle": "Um modelo para adaptar com os seus dados",
+      "handle": "sample.photographer",
+      "before": "Pedro · retratos\nRetratos com luz natural Curitiba e região Portfólio e orçamentos no link",
+      "after": "Pedro · retratos\nRetratos com luz natural\nCuritiba e região\nPortfólio e orçamentos no link"
+    },
+    {
+      "id": "shop",
+      "title": "Ateliê e encomendas",
+      "subtitle": "Um modelo para adaptar com os seus dados",
+      "handle": "sample.shop",
+      "before": "Ateliê Aurora\nCerâmica feita à mão, sem pressa De Recife para sua casa Encomendas pelo link",
+      "after": "Ateliê Aurora\nCerâmica feita à mão, sem pressa\nDe Recife para sua casa\nEncomendas pelo link"
+    },
+    {
+      "id": "local-business",
+      "title": "Café de bairro",
+      "subtitle": "Um modelo para adaptar com os seus dados",
+      "handle": "sample.local.business",
+      "before": "Café da Vila\nCafé passado e bolo do dia Ter–dom, 9h–18h · fechamos às segundas Cardápio e endereço no link",
+      "after": "Café da Vila\nCafé passado e bolo do dia\nTer–dom, 9h–18h · fechamos às segundas\nCardápio e endereço no link"
+    },
+    {
+      "id": "business",
+      "title": "Design freelancer",
+      "subtitle": "Um modelo para adaptar com os seus dados",
+      "handle": "sample.business",
+      "before": "Rafa · design de marcas\nIdentidade visual para pequenos negócios Marcas, embalagens e editorial Projetos e contato no link",
+      "after": "Rafa · design de marcas\nIdentidade visual para pequenos negócios\nMarcas, embalagens e editorial\nProjetos e contato no link"
+    },
+    {
+      "id": "pets",
+      "title": "Pets",
+      "subtitle": "Um modelo para adaptar com os seus dados",
+      "handle": "sample.pets",
+      "before": "Luna e sua humana\nSonecas, passeios e meias roubadas Quem posta é quem guarda os petiscos",
+      "after": "Luna e sua humana\nSonecas, passeios e meias roubadas\nQuem posta é quem guarda os petiscos"
+    },
+    {
+      "id": "student",
+      "title": "Vida de estudante",
+      "subtitle": "Um modelo para adaptar com os seus dados",
+      "handle": "sample.student",
+      "before": "Ana · entre aulas\nDesign, café e trabalhos da faculdade Recife · aprendendo no caminho",
+      "after": "Ana · entre aulas\nDesign, café e trabalhos da faculdade\nRecife · aprendendo no caminho"
+    },
+    {
+      "id": "beauty",
+      "title": "Beleza sem filtro",
+      "subtitle": "Um modelo para adaptar com os seus dados",
+      "handle": "sample.beauty",
+      "before": "Mari · beleza real\nTesto skincare na minha pele Maquiagem possível pro dia a dia Resenhas sinceras · parcerias no link",
+      "after": "Mari · beleza real\nTesto skincare na minha pele\nMaquiagem possível pro dia a dia\nResenhas sinceras · parcerias no link"
+    },
+    {
+      "id": "company",
+      "title": "Perfil da empresa",
+      "subtitle": "Um modelo para adaptar com os seus dados",
+      "handle": "sample.company",
+      "before": "Estúdio Brisa\nDesign para marcas em movimento Rio de Janeiro · atendemos online Projetos e contato no link",
+      "after": "Estúdio Brisa\nDesign para marcas em movimento\nRio de Janeiro · atendemos online\nProjetos e contato no link"
+    }
+  ],
+  "id": [
+    {
+      "id": "cafe",
+      "title": "Ngopi & foto",
+      "subtitle": "Contoh bio yang bisa disesuaikan dengan datamu",
+      "handle": "sample.cafe",
+      "before": "Lana · catatan ngopi\nKopi susu dan sudut kota Bandung, biasanya Alamat kedai ada di tiap post",
+      "after": "Lana · catatan ngopi\nKopi susu dan sudut kota\nBandung, biasanya\nAlamat kedai ada di tiap post"
+    },
+    {
+      "id": "daily",
+      "title": "Cerita sehari-hari",
+      "subtitle": "Contoh bio yang bisa disesuaikan dengan datamu",
+      "handle": "sample.daily",
+      "before": "Nadia\nBuku, tanaman, dan jalan sore Catatan kecil yang ingin disimpan",
+      "after": "Nadia\nBuku, tanaman, dan jalan sore\nCatatan kecil yang ingin disimpan"
+    },
+    {
+      "id": "y2k",
+      "title": "OOTD & thrifting",
+      "subtitle": "Contoh bio yang bisa disesuaikan dengan datamu",
+      "handle": "sample.y2k",
+      "before": "Dinda · isi lemari\nThrifting, sneakers, dan playlist Baju lama, padu padan baru Detail outfit di tiap post",
+      "after": "Dinda · isi lemari\nThrifting, sneakers, dan playlist\nBaju lama, padu padan baru\nDetail outfit di tiap post"
+    },
+    {
+      "id": "lovely",
+      "title": "Catatan penggemar",
+      "subtitle": "Contoh bio yang bisa disesuaikan dengan datamu",
+      "handle": "sample.lovely",
+      "before": "Alya · cerita konser\nKonser, lagu favorit, dan fancam Satu fandom? Yuk, kenalan Fan account, bukan akun resmi",
+      "after": "Alya · cerita konser\nKonser, lagu favorit, dan fancam\nSatu fandom? Yuk, kenalan\nFan account, bukan akun resmi"
+    },
+    {
+      "id": "travel",
+      "title": "Jalan akhir pekan",
+      "subtitle": "Contoh bio yang bisa disesuaikan dengan datamu",
+      "handle": "sample.travel",
+      "before": "Raka · jalan dulu\nNaik kereta, cari tempat baru Berangkat dari Jakarta Rute dan catatan biaya di tautan",
+      "after": "Raka · jalan dulu\nNaik kereta, cari tempat baru\nBerangkat dari Jakarta\nRute dan catatan biaya di tautan"
+    },
+    {
+      "id": "photographer",
+      "title": "Fotografer",
+      "subtitle": "Contoh bio yang bisa disesuaikan dengan datamu",
+      "handle": "sample.photographer",
+      "before": "Ardi · potret\nPotret dengan cahaya alami Yogyakarta dan sekitarnya Portofolio & jadwal di tautan",
+      "after": "Ardi · potret\nPotret dengan cahaya alami\nYogyakarta dan sekitarnya\nPortofolio & jadwal di tautan"
+    },
+    {
+      "id": "shop",
+      "title": "Usaha rumahan",
+      "subtitle": "Contoh bio yang bisa disesuaikan dengan datamu",
+      "handle": "sample.shop",
+      "before": "Benang Senja\nTas rajut buatan tangan Dikirim dari Surabaya Katalog & pesanan di tautan",
+      "after": "Benang Senja\nTas rajut buatan tangan\nDikirim dari Surabaya\nKatalog & pesanan di tautan"
+    },
+    {
+      "id": "local-business",
+      "title": "Kedai kopi",
+      "subtitle": "Contoh bio yang bisa disesuaikan dengan datamu",
+      "handle": "sample.local.business",
+      "before": "Kopi Sore\nKopi susu dan camilan rumahan Sel–Min 10.00–21.00 · Senin tutup Menu & lokasi di tautan",
+      "after": "Kopi Sore\nKopi susu dan camilan rumahan\nSel–Min 10.00–21.00 · Senin tutup\nMenu & lokasi di tautan"
+    },
+    {
+      "id": "business",
+      "title": "Desainer lepas",
+      "subtitle": "Contoh bio yang bisa disesuaikan dengan datamu",
+      "handle": "sample.business",
+      "before": "Fira · desain merek\nIdentitas visual untuk UMKM Logo, kemasan, dan desain cetak Portofolio & kerja sama di tautan",
+      "after": "Fira · desain merek\nIdentitas visual untuk UMKM\nLogo, kemasan, dan desain cetak\nPortofolio & kerja sama di tautan"
+    },
+    {
+      "id": "pets",
+      "title": "Hewan peliharaan",
+      "subtitle": "Contoh bio yang bisa disesuaikan dengan datamu",
+      "handle": "sample.pets",
+      "before": "Mochi dan manusianya\nTidur, main, minta makan lagi Akun diurus si penyedia camilan",
+      "after": "Mochi dan manusianya\nTidur, main, minta makan lagi\nAkun diurus si penyedia camilan"
+    },
+    {
+      "id": "student",
+      "title": "Kuliah & keseharian",
+      "subtitle": "Contoh bio yang bisa disesuaikan dengan datamu",
+      "handle": "sample.student",
+      "before": "Naya · sela kuliah\nDesain, tugas, dan kopi malam Malang · belajar sambil cerita",
+      "after": "Naya · sela kuliah\nDesain, tugas, dan kopi malam\nMalang · belajar sambil cerita"
+    },
+    {
+      "id": "beauty",
+      "title": "Beauty creator",
+      "subtitle": "Contoh bio yang bisa disesuaikan dengan datamu",
+      "handle": "sample.beauty",
+      "before": "Putri · cerita skincare\nCoba skincare di kulit sendiri Makeup simpel buat sehari-hari Ulasan jujur · kerja sama di tautan",
+      "after": "Putri · cerita skincare\nCoba skincare di kulit sendiri\nMakeup simpel buat sehari-hari\nUlasan jujur · kerja sama di tautan"
+    },
+    {
+      "id": "company",
+      "title": "Akun perusahaan",
+      "subtitle": "Contoh bio yang bisa disesuaikan dengan datamu",
+      "handle": "sample.company",
+      "before": "Studio Rupa\nDesain untuk merek yang bertumbuh Jakarta · melayani secara online Layanan & kontak di tautan",
+      "after": "Studio Rupa\nDesain untuk merek yang bertumbuh\nJakarta · melayani secara online\nLayanan & kontak di tautan"
+    }
+  ],
+  "tr": [
+    {
+      "id": "cafe",
+      "title": "Kahve ve fotoğraf",
+      "subtitle": "Kendi bilgilerinle düzenleyebileceğin bir örnek",
+      "handle": "sample.cafe",
+      "before": "Lana · kahve notları\nKahve molaları, küçük keşifler İstanbul, çoğu zaman Mekânlar her gönderinin altında",
+      "after": "Lana · kahve notları\nKahve molaları, küçük keşifler\nİstanbul, çoğu zaman\nMekânlar her gönderinin altında"
+    },
+    {
+      "id": "daily",
+      "title": "Günlük ve sade",
+      "subtitle": "Kendi bilgilerinle düzenleyebileceğin bir örnek",
+      "handle": "sample.daily",
+      "before": "İpek\nKitaplar, bitkiler, uzun yürüyüşler Saklamak istediğim küçük anlar",
+      "after": "İpek\nKitaplar, bitkiler, uzun yürüyüşler\nSaklamak istediğim küçük anlar"
+    },
+    {
+      "id": "y2k",
+      "title": "Stil ve ikinci el",
+      "subtitle": "Kendi bilgilerinle düzenleyebileceğin bir örnek",
+      "handle": "sample.y2k",
+      "before": "Ece · dolabımdan\nİkinci el parçalar, yeni kombinler Sneaker, müzik ve sokaklar Kombin detayları gönderilerde",
+      "after": "Ece · dolabımdan\nİkinci el parçalar, yeni kombinler\nSneaker, müzik ve sokaklar\nKombin detayları gönderilerde"
+    },
+    {
+      "id": "lovely",
+      "title": "Hayran günlüğü",
+      "subtitle": "Kendi bilgilerinle düzenleyebileceğin bir örnek",
+      "handle": "sample.lovely",
+      "before": "Defne · konser arası\nKonser fotoğrafları ve sevdiğim şarkılar Aynı şarkıyı seviyorsak tanışalım Hayran hesabı, resmî değildir",
+      "after": "Defne · konser arası\nKonser fotoğrafları ve sevdiğim şarkılar\nAynı şarkıyı seviyorsak tanışalım\nHayran hesabı, resmî değildir"
+    },
+    {
+      "id": "travel",
+      "title": "Hafta sonu rotaları",
+      "subtitle": "Kendi bilgilerinle düzenleyebileceğin bir örnek",
+      "handle": "sample.travel",
+      "before": "Deniz · yoldan notlar\nTrenler, sahil yolları, küçük duraklar İzmir çıkışlı hafta sonları Rotalar ve notlar bağlantıda",
+      "after": "Deniz · yoldan notlar\nTrenler, sahil yolları, küçük duraklar\nİzmir çıkışlı hafta sonları\nRotalar ve notlar bağlantıda"
+    },
+    {
+      "id": "photographer",
+      "title": "Fotoğrafçı",
+      "subtitle": "Kendi bilgilerinle düzenleyebileceğin bir örnek",
+      "handle": "sample.photographer",
+      "before": "Arda · portre\nDoğal ışıkta portreler Ankara ve çevresi Portfolyo ve çekim bilgisi bağlantıda",
+      "after": "Arda · portre\nDoğal ışıkta portreler\nAnkara ve çevresi\nPortfolyo ve çekim bilgisi bağlantıda"
+    },
+    {
+      "id": "shop",
+      "title": "El emeği ve butik",
+      "subtitle": "Kendi bilgilerinle düzenleyebileceğin bir örnek",
+      "handle": "sample.shop",
+      "before": "İlmek Atölye\nGünlük hayata el emeği parçalar Bursa’dan özenle gönderilir Ürünler ve sipariş bağlantıda",
+      "after": "İlmek Atölye\nGünlük hayata el emeği parçalar\nBursa’dan özenle gönderilir\nÜrünler ve sipariş bağlantıda"
+    },
+    {
+      "id": "local-business",
+      "title": "Mahalle kafesi",
+      "subtitle": "Kendi bilgilerinle düzenleyebileceğin bir örnek",
+      "handle": "sample.local.business",
+      "before": "Sokağın Kahvesi\nTaze kahve, ev yapımı tatlılar Sal–Paz 09.00–19.00 · Pzt kapalı Menü ve konum bağlantıda",
+      "after": "Sokağın Kahvesi\nTaze kahve, ev yapımı tatlılar\nSal–Paz 09.00–19.00 · Pzt kapalı\nMenü ve konum bağlantıda"
+    },
+    {
+      "id": "business",
+      "title": "Serbest tasarımcı",
+      "subtitle": "Kendi bilgilerinle düzenleyebileceğin bir örnek",
+      "handle": "sample.business",
+      "before": "Elif · marka tasarımı\nKüçük işletmelere görsel kimlik Logo, ambalaj ve basılı işler Portfolyo ve iletişim bağlantıda",
+      "after": "Elif · marka tasarımı\nKüçük işletmelere görsel kimlik\nLogo, ambalaj ve basılı işler\nPortfolyo ve iletişim bağlantıda"
+    },
+    {
+      "id": "pets",
+      "title": "Evcil dostlar",
+      "subtitle": "Kendi bilgilerinle düzenleyebileceğin bir örnek",
+      "handle": "sample.pets",
+      "before": "Misket ve insanı\nUyku, oyun, biraz da mama peşinde Hesabı ödül mamasını saklayan yönetir",
+      "after": "Misket ve insanı\nUyku, oyun, biraz da mama peşinde\nHesabı ödül mamasını saklayan yönetir"
+    },
+    {
+      "id": "student",
+      "title": "Öğrenci ve kampüs",
+      "subtitle": "Kendi bilgilerinle düzenleyebileceğin bir örnek",
+      "handle": "sample.student",
+      "before": "Zeynep · ders arası\nTasarım, teslimler ve kahve molaları Eskişehir · öğrenirken not alıyorum",
+      "after": "Zeynep · ders arası\nTasarım, teslimler ve kahve molaları\nEskişehir · öğrenirken not alıyorum"
+    },
+    {
+      "id": "beauty",
+      "title": "Güzellik içerikleri",
+      "subtitle": "Kendi bilgilerinle düzenleyebileceğin bir örnek",
+      "handle": "sample.beauty",
+      "before": "Melis · bakım notları\nKendi cildimde denediğim ürünler Günlük hayata uygun makyaj Dürüst yorumlar · iş birliği bağlantıda",
+      "after": "Melis · bakım notları\nKendi cildimde denediğim ürünler\nGünlük hayata uygun makyaj\nDürüst yorumlar · iş birliği bağlantıda"
+    },
+    {
+      "id": "company",
+      "title": "Kurumsal hesap",
+      "subtitle": "Kendi bilgilerinle düzenleyebileceğin bir örnek",
+      "handle": "sample.company",
+      "before": "Rota Tasarım\nMarkalar için tasarım ve iletişim İstanbul · uzaktan da birlikte Projeler ve iletişim bağlantıda",
+      "after": "Rota Tasarım\nMarkalar için tasarım ve iletişim\nİstanbul · uzaktan da birlikte\nProjeler ve iletişim bağlantıda"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import QRCode from 'qrcode';
+import jsQR from 'jsqr';
+import {createRequire} from 'node:module';
+import {linkMetadata,qrPayload,parseHistory} from '../src/lib/link-tools';
+import {usageEvent} from '../src/lib/analytics-policy';
+const require=createRequire(import.meta.url),{PNG}=require(require.resolve('pngjs',{paths:[require.resolve('qrcode')]}));
+test('QR PNG decodes multilingual content and SVG has requested dimensions',async()=>{const input='안녕하세요 · Hello · こんにちは ☕';const data=await QRCode.toDataURL(qrPayload(input,'text'),{width:1024,margin:4,errorCorrectionLevel:'M'});const image=PNG.sync.read(Buffer.from(data.split(',')[1],'base64'));assert.equal(image.width,1024);const code=jsQR(new Uint8ClampedArray(image.data),image.width,image.height);assert.equal(code?.data,input);const svg=await QRCode.toString(input,{type:'svg',width:512,margin:4});assert.ok(svg.includes('width="512"'));assert.throws(()=>qrPayload('javascript:alert(1)','url'));assert.throws(()=>qrPayload('가'.repeat(501),'text'));});
+test('management history rejects script URLs and malformed data; metadata stays localized',()=>{const r={code:'abcdefgh1234',shortUrl:'https://makesns.com/s/abcdefgh1234',token:'a'.repeat(43),target:'https://example.com',expiresAt:null};assert.equal(parseHistory([r]).length,1);assert.equal(parseHistory([{...r,shortUrl:'javascript:alert(1)'}]).length,0);for(const lang of ['en','ko','ja'] as const)for(const tool of ['qr-code','short-links'] as const){const meta=linkMetadata(lang,tool);assert.ok(meta.description.length<=80);assert.equal(meta.alternates.canonical,`/${lang}/${tool}/`);}});
+test('QR and link analytics never include entered text, URL or management key',()=>{const e=usageEvent('link_create','/ko/short-links/#key=secret',{url:'private',token:'secret'});assert.deepEqual(e?.params,{tool_name:'short-links',ui_language:'ko'});assert.equal(usageEvent('qr_download','/ja/qr-code/',{format:'png',size:1024,text:'secret'})?.params.text,undefined);assert.equal(usageEvent('link_create','/ko/fonts/'),null);});
